@@ -39,6 +39,13 @@ Review the information on the GBIF website about https://www.gbif.org/become-mem
 
 === Participatory approach to establish a Participant node
 
+
+=== Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
+
+
+=== Exercise 2: Selecting rationale and arguments
+
+
 ==== sub sub topic
 
 Paragraph1, sentence1.
