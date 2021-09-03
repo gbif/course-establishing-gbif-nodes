@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-03 09:24+0000\n"
+"POT-Creation-Date: 2021-09-03 13:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,12 +47,15 @@ msgstr ""
 #. type: Title ==
 #: description.en.adoc:2
 #, no-wrap
-msgid "Description"
+msgid "Course description"
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:6
-msgid "this is the description..."
+msgid ""
+"This course aims to support teams working on GBIF funded projects, observers "
+"and other interested participants in the first stages of establishing a GBIF "
+"Participant node."
 msgstr ""
 
 #. type: delimited block *
@@ -61,64 +64,103 @@ msgid "Topics include:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:10 description.en.adoc:11 description.en.adoc:12
+#: description.en.adoc:10
+msgid "Benefits of GBIF Participation and of estblishing a Participant Node"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:11
+msgid "Process for joining GBIF"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Key audiences to engage in GBIF at a national level"
+msgstr ""
+
+#. type: delimited block *
 #: description.en.adoc:13
-msgid "Topic"
+msgid "Participatory approach to establishing a Participant node"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:14
+msgid "Nodes models and governance"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:15
+msgid "Planning and reporting documents for a GBIF Participant node"
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:16
-msgid "This course is comprised of ...  Second sentence..."
+msgid "Ongoing support for developing Participant nodes"
 msgstr ""
 
-#. type: Title ===
-#: description.en.adoc:18
-#, no-wrap
-msgid "Audience"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:20
-msgid "This course is for..."
+#. type: delimited block *
+#: description.en.adoc:19
+msgid ""
+"This course is comprised of video instruction paired with quizzes and "
+"practical exercises. Course participants will be put in groups and social "
+"interaction is encouraged. Completing the four practicial exercises, "
+"providing peer feedback within your group, and attending two live question "
+"and answer sessions are compulsory to successfully completing the course and "
+"receiving certification."
 msgstr ""
 
 #. type: Title ===
 #: description.en.adoc:21
 #, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:23
+msgid "This course is for..."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:24
+#, no-wrap
 msgid "Prerequisites"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:24
-msgid "prerequisite 1 if any"
+#: description.en.adoc:27
+msgid ""
+"https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF "
+"course^]"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:26
-msgid "prerequisite 2 if any"
+#: description.en.adoc:29
+msgid ""
+"Commitment to completing the course within the allocated time-frame and to "
+"supporting your peers in the group work"
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:27
+#: description.en.adoc:30
 #, no-wrap
 msgid "Learning objectives"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:30 description.en.adoc:31 description.en.adoc:32
-#: description.en.adoc:33
+#: description.en.adoc:33 description.en.adoc:34 description.en.adoc:35
+#: description.en.adoc:36
 msgid "Objective"
 msgstr ""
 
 #.  inlude if needed, otherwise remove
 #. type: Title ===
-#: description.en.adoc:35
+#: description.en.adoc:38
 #, no-wrap
 msgid "Certification"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:38
+#: description.en.adoc:41
 msgid ""
 "Upon successful completion of the course and successful assessment of "
 "assignments (by trainers/mentors), participants have the opportunity to "
@@ -126,19 +168,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:40
+#: description.en.adoc:43
 msgid ""
 "Participants are required to submit ... and it is scored against the "
 "educational rubrics for the course."
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:42
+#: description.en.adoc:45
 msgid "An overall score of ??? earns a BASIC badge"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:42
+#: description.en.adoc:45
 msgid "An overall score of ??? earns an ADVANCED badge"
 msgstr ""
 
