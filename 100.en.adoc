@@ -1,5 +1,14 @@
 [multipage-level=2]
-== Section/chapter title 
+== Building a case for formal engagement in GBIF
+
+[NOTE.objectives]
+In this module, we will:
+
+* describe the GBIF network and community structure
+* understand how individuals, institutions and countries can participate in GBIF
+* describe what is involved in the modes of formal GBIF Participation and the benefits this brings
+* identify and prioritize stakeholders to engage in moving towards GBIF Participation
+
 
 Paragraph1, sentence1.
 Sentence 2.
