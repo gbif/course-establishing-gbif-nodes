@@ -34,6 +34,7 @@ Review the information on the GBIF website about https://www.gbif.org/become-mem
 ****
 
 In the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
+
 === Key audiences to engage in GBIF at the national level
 
 
