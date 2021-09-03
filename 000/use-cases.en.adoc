@@ -1,9 +1,7 @@
 [multipage-level=2]
 == Use cases
 
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
+The exercises in this course will build on a fictitious use case scenario. You will also be invited to consider your own context in additional self-study exercises.
 
 Paragraph2, sentence1.
 Sentence 2.
@@ -14,17 +12,9 @@ Sentence 2.
 Sentence 3.
 
 === Use case 1
-
-[NOTE.presentation]
-Watch video on the key concepts of ...
-
-.In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
-video::434713215[vimeo, height=480, width=640, align=center]
+[NOTE.activity] Familiarize yourself with the use case scenario.
 
 
-[NOTE.activity]
-Become familiar with the ...
 
 ****
 this is an example of a block
