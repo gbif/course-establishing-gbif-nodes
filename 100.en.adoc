@@ -8,7 +8,7 @@ In this module, we will:
 * understand how individuals, institutions and countries can participate in GBIF
 * identify and prioritize stakeholders to engage in moving towards GBIF Participation
 
-=== sub topic
+=== Benefits of GBIF Participation and of establishing a Participant Node
 
 [NOTE.presentation]
 In this video (12:26), you will review ... used in this course. 
@@ -27,6 +27,15 @@ this second sentence
 this is second paragraph first sentence.
 this is second sentence
 ****
+
+=== Process for becoming a GBIF Participant
+
+
+=== Key audiences to engage in GBIF at the national level
+
+
+
+=== Participatory approach to establish a Participant node
 
 ==== sub sub topic
 
