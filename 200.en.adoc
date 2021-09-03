@@ -1,5 +1,5 @@
 [multipage-level=2]
-== Section/chapter title 
+== Establishing a GBIF Participant Node
 
 Paragraph1, sentence1.
 Sentence 2.
@@ -13,7 +13,7 @@ Paragraph3, sentence1.
 Sentence 2.
 Sentence 3.
 
-=== sub topic
+=== Node models and governance
 
 [NOTE.presentation]
 Watch video on the key concepts of ...
@@ -33,6 +33,13 @@ this second sentence
 this is second paragraph first sentence.
 this is second sentence
 ****
+
+=== Planning and reporting documents for a GBIF Participant node
+
+
+=== Ongoing support for developing GBIF Participant nodes
+
+
 
 ==== sub sub topic
 
