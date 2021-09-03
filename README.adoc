@@ -3,13 +3,13 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 // https://doi.org/10.EXAMPLE/EXAMPLE[image:https://zenodo.org/badge/DOI/10.EXAMPLE/EXAMPLE.svg[doi:10.EXAMPLE/EXAMPLE]]
 // License badge
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
-// Build status badge: In the text below, please update "course-esablishing-gbif-nodes" to "course-your-course-name", and remove this line.
-https://builds.gbif.org/job/course-esablishing-gbif-nodes/lastBuild/console[image:https://builds.gbif.org/job/course-esablishing-gbif-nodes/badge/icon[Build status]]
+// Build status badge: In the text below, please update "course-establishing-gbif-nodes" to "course-your-course-name", and remove this line.
+https://builds.gbif.org/job/course-establishing-gbif-nodes/lastBuild/console[image:https://builds.gbif.org/job/course-establishing-gbif-nodes/badge/icon[Build status]]
 
 = GBIF Course: Establishing GBIF Nodes
 
 _This is information *about* this course's source code.  It is not part of the document._
 
-The course is available as HTML and PDF at https://docs.gbif-uat.org/course-esablishing-gbif-nodes/[Course Template].
+The course is available as HTML and PDF at https://docs.gbif-uat.org/course-establishing-gbif-nodes/[Course Template].
 
 The course is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
