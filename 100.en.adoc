@@ -28,7 +28,7 @@ Become familiar with the ...
 In this section, you will learn what is required to become a member of GBIF.
 
 ****
-Review the information on the GBIF website about https://www.gbif.org/become-member [how to become a member^].
+Review the information on the GBIF website about https://www.gbif.org/become-member[how to become a member^].
 ****
 
 === Key audiences to engage in GBIF at the national level
