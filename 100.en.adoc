@@ -20,16 +20,13 @@ video::FZAF5Sy8Nsc[youtube, height=540, width=960, align=center]
 [NOTE.activity]
 Become familiar with the ...
 
-****
-this is an example of a block
-this second sentence
 
-this is second paragraph first sentence.
-this is second sentence
-****
 
 === Process for becoming a GBIF Participant
 
+****
+Review the information on the GBIF website about how to become a member.  
+****
 
 === Key audiences to engage in GBIF at the national level
 
