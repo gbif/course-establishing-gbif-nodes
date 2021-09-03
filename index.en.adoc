@@ -1,4 +1,4 @@
-= Course name
+= Establishing a GBIF Participant Node
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
