@@ -31,7 +31,7 @@ include::downloads.en.adoc[]
 
 :sectnums:
 
-include::000/use-cases.en.adoc[]
+include::000-use-cases.en.adoc[]
 
 include::100.en.adoc[]
 
