@@ -31,7 +31,7 @@ include::downloads.en.adoc[]
 
 include::use-cases.en.adoc[]
 
-include::Building a case for GBIF Participation.en.adoc[]
+include::Building_a_case_for_GBIF_ Participation.en.adoc[]
 
 include::200.en.adoc[]
 
