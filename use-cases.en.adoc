@@ -48,17 +48,27 @@ Darwinia has a very active tourism industry and is well known for its national p
 Representatives of the *Ministry for Tourism* were also invited to the meeting, and there are several private reserves that focus on eco-tourism that are receiving a growing number of tourists annually.
 
 :figure-caption!:
-.Photograph "Please leave nothing but your footprints" (image via <a href="https://www.peakpx.com">Peakpx</a> CC-0)
-image::img/web/ButterflySpecimens.png[align=center,width=640,height=360]
+.Photograph "Please leave nothing but your footprints" (image via https://www.peakpx.com, licensed under CC-0)
+image::img/web/Leave nothing but your footprints.jpg[align=center,width=640,height=360]
 
 Several *international conservation bodies (WWF, IUCN etc.)* have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them. 
 Citizen science has not yet taken off in the country, and only a few tourists are making use of citizen science applications.
 
 ==== Threats to biodiversity
 
-Darwinia has an active extraction industry, which employs environmental impact assessment consultants. There is currently no public access to these data and they are not consistently formatted. The mining industry is an important part of the country’s economy. The Department of Forestry is under the Ministry of Environment and gives permits for logging. Illegal logging is a growing problem, especially because many communities depend on non-timber forest products. The Ministry of Environment is aware of the growing impact of invasive alien species (IAS) that are damaging the ecosystems in the parks, and affecting waterways. They have started an IAS eradication programme in the national parks.
+Darwinia has an active *extraction industry*, which employs *environmental and social impact assessment consultants*. 
+There is currently no public access to these data and they are not consistently formatted. 
+The *mining industry* is an important part of the country’s economy. 
+
+The *Department of Forestry* is under the Ministry of Environment and gives permits for logging. 
+Illegal logging is a growing problem, especially because many communities depend on non-timber forest products.
+
+The Ministry of Environment is aware of the growing impact of invasive alien species (IAS) that are damaging the ecosystems in the parks, and affecting waterways. 
+They have started an IAS eradication programme in the national parks.
 
 ==== Recent elections
 
-The newly elected government came into power at the end of 2018. There have been many changes within the ministries, and the new Minister for Research, Science and Higher Education is a biologist who previously worked at the national university and is aware of the importance of their collections. The election campaign also promised more sustainable economic growth through supporting the growth of tourism in the country.
+The newly elected government came into power at the end of 2021. 
+There have been many changes within the ministries, and the new Minister for Research, Science and Higher Education is a biologist who previously worked at the national university and is aware of the importance of their collections. 
+The election campaign also promised more sustainable economic growth through supporting the growth of tourism in the country.
 
