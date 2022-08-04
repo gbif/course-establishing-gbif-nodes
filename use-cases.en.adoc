@@ -48,7 +48,8 @@ Darwinia has a very active tourism industry and is well known for its national p
 Representatives of the *Ministry for Tourism* were also invited to the meeting, and there are several private reserves that focus on eco-tourism that are receiving a growing number of tourists annually.
 
 :figure-caption!:
-.Photograph "Please leave nothing but your footprints" (Photo by Vlad Chețan from Pexels: https://www.pexels.com/photo/mining-excavation-on-a-mountain-2892618/, licensed under CC-0) image::img/web/Mining.jpg[align=center,width=640,height=360]
+.Photograph "Please leave nothing but your footprints" (Photo by Vlad Chețan from Pexels: https://www.pexels.com/photo/mining-excavation-on-a-mountain-2892618/, licensed under CC-0) 
+image::img/web/Leave nothing but your footprints.jpg[align=center,width=640,height=360]
 
 Several *international conservation bodies (WWF, IUCN etc.)* have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them. 
 Citizen science has not yet taken off in the country, and only a few tourists are making use of citizen science applications.
@@ -61,7 +62,7 @@ The *mining industry* is an important part of the country’s economy.
 
 :figure-caption!:
 .Photograph "Mining excavation on a mountain" (image via https://www.peakpx.com, licensed under CC-0)
-image::img/web/Leave nothing but your footprints.jpg[align=center,width=640,height=360]
+image::img/web/Mining.jpg[align=center,width=640,height=360]g[align=center,width=640,height=360]
 
 The *Department of Forestry* is under the Ministry of Environment and gives permits for logging. 
 Illegal logging is a growing problem, especially because many communities depend on non-timber forest products.
