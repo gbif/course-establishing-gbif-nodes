@@ -23,7 +23,7 @@ After receiving training, the museum staff have now installed software for manag
 The herbarium is still using spreadsheets to manage their data, but has advanced with the digitization and has also published data to GBIF, after gaining permission to use the IPT hosted at the Darwinia natural history museum.
 
 :figure-caption!:
-.Photograph showing a display of specimens from an exhibition at the Danish Natural History museum
+.Photograph showing a display of specimens from a public exhibition by Melianie Raymond
 image::img/web/ButterflySpecimens.png[align=center,width=640,height=360]
 
 The staff in both collections are already recognizing the benefits of improved data management on the institutional level and of sharing their data across institutions. 
@@ -32,14 +32,27 @@ Both institutions receive national funding through the *Ministry for Research, S
 
 ==== National context
 
-Darwinia is not yet a GBIF Participant and there is no national node in the country. The project team held a national workshop to try to engage with potential users of the data they are publishing. 
-The Convention on Biological Diversity (CBD) focal point and clearing house mechanism (CHM) are based at the Ministry of Environment and have been informed of the data mobilization project. They are responsible for the national biodiversity reporting and are currently late in submitting the sixth National Report to the CBD. They have been struggling to find sufficient information to prepare the report. 
-The Ministry for Research, Science and Higher Education is better funded than the Ministry of Environment, but both suffered budget cuts under the previous government. The CBD focal point is planning to apply for a Global Environment Facility (GEF) grant to establish a national biodiversity monitoring system that would address the gaps in biodiversity information identified in the national report through the establishment of a database. 
+Darwinia is not yet a GBIF Participant and there is no national node in the country. 
+The project team held a national workshop to try to engage with potential users of the data they are publishing.
+
+The *Convention on Biological Diversity (CBD) focal point* and *clearing house mechanism (CHM)* are based at the *Ministry of Environment* and have been informed of the data mobilization project. 
+They are responsible for the national biodiversity reporting and are currently late in submitting the seventh National Report to the CBD. 
+They have been struggling to find sufficient information to prepare the report.
+
+The *Ministry for Research, Science and Higher Education* is better funded than the Ministry of Environment, but both suffered budget cuts under the previous government. 
+The CBD focal point is planning to apply for a *Global Environment Facility (GEF)* grant to establish a national biodiversity monitoring system that would address the gaps in biodiversity information identified in the national report through the establishment of a database. 
 The Ministry of Environment and the Ministry for Research, Science and Higher Education do not have any policies regarding the sharing of biodiversity data on the national level, although the government has been promoting transparency and open data.
 
-Representatives from the National Parks Service (under the Ministry of Environment) came to the project kick-off meeting, and were interested in improving their data management, as currently each park manages its data separately. Darwinia has a very active tourism industry and is well known for its national parks and nature, although a growing number of the charismatic fauna and flora are threatened due to habitat loss (primarily due to expanding mining and logging industries) and the impacts of invasive alien species. Representatives of the Ministry for Tourism were also invited to the meeting, and there are several private reserves that focus on eco-tourism that are receiving a growing number of tourists annually.
+Representatives from the *National Parks Service* (under the Ministry of Environment) came to the project kick-off meeting, and were interested in improving their data management, as currently each park manages its data separately. 
+Darwinia has a very active tourism industry and is well known for its national parks and nature, although a growing number of the charismatic fauna and flora are threatened due to habitat loss (primarily due to expanding mining and logging industries) and the impacts of invasive alien species. 
+Representatives of the *Ministry for Tourism* were also invited to the meeting, and there are several private reserves that focus on eco-tourism that are receiving a growing number of tourists annually.
 
-Several international conservation bodies (WWF, IUCN etc.) have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them. Citizen science has not yet taken off in the country, and a few tourists are making use of citizen science applications.
+:figure-caption!:
+.Photograph "Please leave nothing but your footprints" (image via <a href="https://www.peakpx.com">Peakpx</a> CC-0)
+image::img/web/ButterflySpecimens.png[align=center,width=640,height=360]
+
+Several *international conservation bodies (WWF, IUCN etc.)* have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them. 
+Citizen science has not yet taken off in the country, and only a few tourists are making use of citizen science applications.
 
 ==== Threats to biodiversity
 
