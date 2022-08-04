@@ -2,12 +2,12 @@
 == Use case
 
 [NOTE.activity]
-Familiarize yourself with the use case scenario.
+Read and familiarize yourself with the use case scenario that we will refer to for the course exercises.
 
 _Please note that this use case is fictitious, based on an imaginary country “Darwinia” and built for instructional purposes. 
 Any reference to countries and structures/organizations, real or otherwise, are used merely to facilitate the training and do not reflect reality._ 
 
-The exercises in this course will build on a fictitious use case scenario _Developing a natioinal Participant node in Darwinia_ that sets the context for you to go through the steps of building a case for GBIF Participation and establishing a new node. 
+The exercises in this course will build on a fictitious use case scenario _"Developing a natioinal Participant node in Darwinia"_ that sets the context for you to go through the steps of building a case for GBIF Participation and establishing a new node. 
 You will also be invited to consider your own context in additional self-study exercises.
 
 In the use case, you will follow the story of a team based at a natural history museum that received a grant to start work on digitizing their collections and publish data through GBIF. They see benefits of participating in the GBIF network and would like to build a case for their country to join and establish a national node.
