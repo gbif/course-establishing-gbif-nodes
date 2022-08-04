@@ -29,7 +29,7 @@ include::description.en.adoc[]
 
 include::downloads.en.adoc[]
 
-include::000-use-cases.en.adoc[]
+include::use-cases.en.adoc[]
 
 include::100.en.adoc[]
 
