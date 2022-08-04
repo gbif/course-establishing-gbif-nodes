@@ -22,6 +22,10 @@ Both project partners had limited capacity in data management prior to the proje
 After receiving training, the museum staff have now installed software for managing their collections and the museum published the first datasets to GBIF. 
 The herbarium is still using spreadsheets to manage their data, but has advanced with the digitization and has also published data to GBIF, after gaining permission to use the IPT hosted at the Darwinia natural history museum.
 
+:figure-caption!:
+.Photograph showing a display of specimens from an exhibition at the Danish Natural History museum
+image::img/web/ButterflySpecimens.png[align=center,width=640,height=360]
+
 The staff in both collections are already recognizing the benefits of improved data management on the institutional level and of sharing their data across institutions. 
 The national university has recently started a Master’s programme for biodiversity and conservation studies within the biology faculty and is keen to integrate teaching on biodiversity informatics within the course. 
 Both institutions receive national funding through the *Ministry for Research, Science and Higher Education*.
