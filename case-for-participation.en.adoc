@@ -19,20 +19,17 @@ In this section, we will explore GBIF’s relevance through a series of videos f
 While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
 You will need these rationale for the activities later in the course.
 
-
 [NOTE.presentation]
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
 If you are unable to watch the embeded Vimeo video, you can download it locally.
 
-video::FZAF5Sy8Nsc[youtube, height=540, width=960, align=center]
-
+video::656603612[vimeo, height=540, width=960, align=center]
 
 === Process for becoming a GBIF Participant
 
 In this section, you will review the details on the process for becoming a member of GBIF and explore examples provided in news items about new GBIF Participants.
 
 TIP: Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
-
 
 The details of how to become a member of GBIF, the description of Participant categories, the GBIF Memorandum of Understanding, and other templates are all provided on the GBIF website in the section about https://www.gbif.org/become-member[how to become a member^]. Read through this information in detail as is important to understand this process before moving on to the rest of the course. 
 
