@@ -193,7 +193,9 @@ image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
 === Key audiences to engage in GBIF at the national level
 
 GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build a case for GBIF participation within your country or network. 
-Review the document, focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
+
+[NOTE.documentation]
+Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^], focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
 
 
 === Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
