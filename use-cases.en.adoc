@@ -1,4 +1,3 @@
-[multipage-level=2]
 == Use case
 
 [NOTE.activity]
