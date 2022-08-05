@@ -23,7 +23,9 @@ You will need these rationale for the activities later in the course.
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
 If you are unable to watch the embeded Vimeo video, you can download it locally.
 
-video::656603612[vimeo, height=540, width=960, align=center]
+video::648651229[vimeo, height=540, width=960, align=center]
+
+// 656603612
 
 === Process for becoming a GBIF Participant
 
