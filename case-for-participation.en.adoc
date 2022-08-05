@@ -13,9 +13,10 @@ In this module, we will:
 
 === Understanding GBIF's value
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. 
-In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
+
 
 [NOTE.activity]
+In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
 While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
 You will need these rationale for the activities later in the course.
 
@@ -26,7 +27,7 @@ If you are unable to watch the embeded Vimeo video, you can download it locally.
 video::656603612[vimeo, height=540, width=960, align=center]
 
 [NOTE.presentation]
-In these six videos (<15:00) you will learn about the value of GBIF. 
+In these six videos (<15:00) you will learn about the value of GBIF to different thematic areas. 
 If you are unable to watch via the embeded Vimeo showcase, the videos can be downloaded locally from the <<downloads,downloads page>>.
 
 ifdef::backend-pdf[]
@@ -40,8 +41,6 @@ ifndef::backend-pdf[]
 endif::backend-pdf[]
 
 === Process for becoming a GBIF Participant
-
-In this section, you will review the details on the process for becoming a member of GBIF and explore examples provided in news items about new GBIF Participants.
 
 TIP: Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
 
@@ -64,16 +63,15 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 * Keep note of these examples in your exercise sheet
 
-
 === Benefits of GBIF Participation
 
 In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node.
 
 [NOTE.activity] 
-Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
+Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization. In your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level.
 
-In 2019, GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders. 
-Review the examples provided here, and consider how they could help to communicate GBIF’s relevance to your country or organization. 
+In 2019, GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.
+A selection of the answers given are provided here. You can find further information about the GBIF Participant delegation structure by following the links to the country pages on the GBIF website.
 
 ====
 https://www.gbif.org/country/AU/summary[*Australia*^]
