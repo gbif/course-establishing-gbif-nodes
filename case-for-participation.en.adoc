@@ -177,14 +177,15 @@ To decision-makers, GBIF is communicated through the relevance of scientific pro
 
 === Benefits of establishing a node
 
-Establishing a node is one of the key commitments in joining GBIF. 
+Establishing a node is one of the key commitments that Participants make in joining GBIF. It is important to understand the roles that nodes play within GBIF, as well as the benefits that nodes provide on the national level.
+
+[NOTE.activity]
+Review the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide] in the nodes guidance document.  
+
 
 :figure-caption!:
 .Why are Participant nodes needed?
 image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
-
-
-
 
 
 === Key audiences to engage in GBIF at the national level
