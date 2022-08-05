@@ -25,6 +25,9 @@ If you are unable to watch the embeded Vimeo video, you can download it locally.
 
 video::648651229[vimeo, height=540, width=960, align=center]
 
+video::648651229[vimeo, height=240, width=426, align=center]
+
+video::648651229[vimeo, height=360, width=640, align=center]
 // 656603612
 
 === Process for becoming a GBIF Participant
