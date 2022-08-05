@@ -210,7 +210,7 @@ image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
 
 === Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
 
-TIP: This exercise is based on the use case scenario for the fictious country of Darwinia. Please refer to the use case throughout when providing your answers. However, we encourage you to also consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
+TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia. Please refer to the use case throughout when providing your answers. However, we encourage you to also consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
 ==== Key audiences to engage in GBIF at the national level
 
