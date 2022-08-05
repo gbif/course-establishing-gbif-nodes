@@ -12,9 +12,7 @@ In this module, we will:
 
 
 === Understanding GBIF's value
-The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. 
-
-In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
+The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
 
 [NOTE.activity]
 While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
@@ -66,16 +64,13 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 === Benefits of GBIF Participation
 
-In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node.
+In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node. 
+In 2019, during GBIF's Governing Board meeting, the GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.
+A selection of the answers given are provided here. 
+You can find further information about the GBIF Participant delegation structure by following the links to the country pages on the GBIF website.
 
 [NOTE.documentation] 
-Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
-
-[NOTE.forum]
-In your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level. We will discuss this topic during our first group call.
-
-In 2019, GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.
-A selection of the answers given are provided here. You can find further information about the GBIF Participant delegation structure by following the links to the country pages on the GBIF website.
+Read these statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
 
 ====
 https://www.gbif.org/country/AU/summary[*Australia*^]
@@ -179,6 +174,8 @@ To scientists and researchers through the many applications that are emerging an
 To decision-makers, GBIF is communicated through the relevance of scientific productions resulting from the analysis of available data and taking into account their concerns, particularly in terms of management, preservation or conservation of the environment in order to mitigate the effects related to climate change.
 ====
 
+[NOTE.forum]
+In your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level. We will discuss this topic during our first group call.
 
 === Benefits of establishing a node
 
