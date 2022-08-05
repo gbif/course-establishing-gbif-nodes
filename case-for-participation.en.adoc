@@ -14,9 +14,9 @@ In this module, we will:
 === Understanding GBIF's value
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. 
 
+In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
 
 [NOTE.activity]
-In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
 While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
 You will need these rationale for the activities later in the course.
 
