@@ -65,9 +65,8 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 * Keep note of these examples in your exercise sheet
 
 
-=== Benefits of GBIF Participation and of establishing a node
+=== Benefits of GBIF Participation
 
-Establishing a node is one of the key commitments in joining GBIF. 
 In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node.
 
 [NOTE.activity] 
@@ -176,6 +175,19 @@ This commendable initiative can only be communicated by illustration.
 To scientists and researchers through the many applications that are emerging and that help in the analysis and understanding of the data mobilized and available in open access. 
 To decision-makers, GBIF is communicated through the relevance of scientific productions resulting from the analysis of available data and taking into account their concerns, particularly in terms of management, preservation or conservation of the environment in order to mitigate the effects related to climate change.
 ====
+
+
+=== Benefits of establishing a node
+
+Establishing a node is one of the key commitments in joining GBIF. 
+
+:figure-caption!:
+.Why are Participant nodes needed?
+image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
+
+
+
+
 
 === Key audiences to engage in GBIF at the national level
 
