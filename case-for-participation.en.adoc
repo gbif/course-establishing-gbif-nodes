@@ -77,7 +77,7 @@ In 2019, GBIF Participants were asked to provide statements on how they summariz
 Review the examples provided here, and consider how they could help to communicate GBIF’s relevance to your country or organization. 
 
 ====
-*Australia*
+https://www.gbif.org/country/AU/summary[*Australia*^]
 
 The major biodiversity assessment and monitoring challenges confronting nations are inherently transnational and thus demand data at such scale. 
 The Global Biodiversity Information Facility delivers three key functions for Australia.
@@ -91,7 +91,7 @@ GBIF has achieved what few other environmental domains have been able to achieve
 ====
 
 ====
-*Belgium*
+https://www.gbif.org/country/BE/summary[*Belgium*^]
 
 GBIF is a unique infrastructure delivering access to a vast quantity of evidence data from various sources (specimens, observations, monitoring). 
 It is a fantastic indexation tool for biodiversity data. 
@@ -103,7 +103,7 @@ GBIF’s Data Citation mechanism is amongst the most advanced in open data and o
 ====
 
 ====
-*Canada*
+https://www.gbif.org/country/CA/summary[*Canada*^]
 
 In communicating the value of GBIF to colleagues and funders, Canada emphasizes that:
 
@@ -115,7 +115,7 @@ For example, having detailed biodiversity data contributes to the Convention for
 ====
 
 ====
-*Ghana*
+https://www.gbif.org/country/GH/summary[*Ghana*^]
 
 I would like to summarise the value proposition of GBIF for Ghana in four ways:
 * GBIF is an international community and / infrastructure of excellence that is truly dedicated to serving open biodiversity data for science, conservation and policy.
@@ -125,7 +125,7 @@ I would like to summarise the value proposition of GBIF for Ghana in four ways:
 ====
 
 ====
-*Ireland*
+https://www.gbif.org/country/IE/summary[*Ireland*^]
 
 To summarise GBIF’s value from Ireland’s perspective:
 
@@ -154,7 +154,7 @@ GBIF has already proved its value.
 ====
 
 ====
-*Portugal*
+https://www.gbif.org/country/PT/summary[*Portugal*^]
 
 We summarise GBIF’s value based on achievements obtained from our participation so far, starting by highlighting the measurable indicators of performance:
 
@@ -166,7 +166,7 @@ However, the major impact/value of GBIF for Portugal is highly focused on other 
 ====
 
 ====
-*Togo*
+https://www.gbif.org/country/TG/summary[*Togo*^]
 
 GBIF is a community of biodiversity enthusiasts, a platform of scientists and policy makers working to link biodiversity data with science and development; a platform that strives to provide freely decision-making material for understanding biodiversity data for the purpose of preserving and conserving biodiversity for present and future generations. More than a platform, GBIF is a community.
 
