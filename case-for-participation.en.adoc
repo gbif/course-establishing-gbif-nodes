@@ -219,6 +219,10 @@ When building a case for a country to join GBIF, it is important to start by ide
 . How likely the stakeholder is to support the desired outcome (in this case, the country becoming a GBIF Participant and establishing a node)
 . How much influence the stakeholder is likely to have on the outcome (remembering that for a country to join, signature of the MOU may come from a minister or senior official in a relevant government department or designated national agency)
 
+:figure-caption!:
+.Matrix for prioritizing stakeholders to engage in making a case for GBIF Participation
+image::img/web/StakeholderMatrix.PNG[align=center,width=640,height=360]
+
 
 ==== Key audiences to engage in GBIF at the national level
 
