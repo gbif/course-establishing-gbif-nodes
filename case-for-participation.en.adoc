@@ -78,7 +78,9 @@ In 2019, GBIF Participants were asked to provide statements on how they summariz
 A selection of the answers given are provided here. You can find further information about the GBIF Participant delegation structure by following the links to the country pages on the GBIF website.
 
 ====
-=== https://www.gbif.org/country/AU/summary[*Australia*^]
+++++
+==== https://www.gbif.org/country/AU/summary[*Australia*^]
+++++
 
 The major biodiversity assessment and monitoring challenges confronting nations are inherently transnational and thus demand data at such scale. 
 The Global Biodiversity Information Facility delivers three key functions for Australia.
