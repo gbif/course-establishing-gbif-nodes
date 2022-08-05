@@ -75,7 +75,9 @@ You can find further information about each GBIF Participant delegation by follo
 Read these statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
 
 ====
-https://www.gbif.org/country/AU/summary[*Australia*^]
+[discrete]
+==== https://www.gbif.org/country/AU/summary[*Australia*^]
+//https://www.gbif.org/country/AU/summary[*Australia*^]
 
 
 The major biodiversity assessment and monitoring challenges confronting nations are inherently transnational and thus demand data at such scale. 
