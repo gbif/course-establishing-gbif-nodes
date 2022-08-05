@@ -102,8 +102,8 @@ Thanks to capacity enhancement programmes and numerous training workshops, GBIF	
 GBIF’s Data Citation mechanism is amongst the most advanced in open data and open science landscape. 
 ====
 
-[quote, Canada, Input to tour-de-table discussion, 2019]
-____
+====
+*Canada*
 In communicating the value of GBIF to colleagues and funders, Canada emphasizes that:
 
 * GBIF provides Canadian citizens and stakeholders with an easy, reliable one-stop source available anywhere for accessing Canadian and global biodiversity information, wherever the data was generated;
@@ -111,7 +111,17 @@ In communicating the value of GBIF to colleagues and funders, Canada emphasizes 
 * Like many other countries, the Government of Canada committed to an Open Government Strategy. Membership in GBIF and contribution of Canadian biodiversity datasets directly supports Open Government activities.
 * Participation in GBIF also contributes to Canada’s data and information requirements for Canadian commitments to intergovernmental processes. 
 For example, having detailed biodiversity data contributes to the Convention for Biological Diversity’s Aichi Target 19 on the sharing of biodiversity knowledge and also on target 9 (invasive species), target 11 (protected areas), target 12 (avoiding extinctions), and target 13 (conserving genetic resources).
-____
+====
+
+====
+*Ghana*
+I would like to summarise the value proposition of GBIF for Ghana in four ways:
+* GBIF is an international community and / infrastructure of excellence that is truly dedicated to serving open biodiversity data for science, conservation and policy.
+* GBIF is an excellent practitioner of the “new” and existing discipline of biodiversity informatics.
+* GBIF is a means to achieving national commitments to inter-governmental cooperation / agreements such as Clearing House Mechanisms (CHM) of the CBD.
+* GBIF is a powerful aggregator of worldwide biodiversity data that is crucial for biodiversity research and science.
+====
+
 
 
 === Key audiences to engage in GBIF at the national level
