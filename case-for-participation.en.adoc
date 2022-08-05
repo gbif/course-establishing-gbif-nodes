@@ -25,9 +25,9 @@ If you are unable to watch the embeded Vimeo video, you can download it locally.
 
 video::656603612[vimeo, height=540, width=960, align=center]
 
-video::648651229[vimeo, height=240, width=426, align=center]
-
-video::648651229[vimeo, height=360, width=640, align=center]
+[NOTE.presentation]
+In these six videos (<15:00) you will learn about the value of GBIF. 
+If you are unable to watch via the embeded Vimeo showcase, the videos can be downloaded locally from the <<downloads,downloads page>>.
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
