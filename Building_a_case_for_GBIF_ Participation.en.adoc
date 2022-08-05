@@ -39,6 +39,14 @@ The details of how to become a member of GBIF, the description of Participant ca
 [NOTE.activity]
 *Activity* To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items.
 
+. Go to the https://www.gbif.org/resource/search?contentType=news [news section of the GBIF website]
+. Look for new items related to new Participants joining the network, such as:
+
+. For these examples, look more closely at:
+.. Which Ministry or Institution has signed the MOU?
+.. Who has been assigned as Head of Delegation and Node Manager? 
+.. Which reasons are given for why the Participant joined GBIF?
+
 
 === Key audiences to engage in GBIF at the national level
 
