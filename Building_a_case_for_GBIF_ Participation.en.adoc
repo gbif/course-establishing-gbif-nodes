@@ -41,19 +41,19 @@ The details of how to become a member of GBIF, the description of Participant ca
 *Practical activity* 
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items.
 
-. Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website]
-. Look for new items related to new Participants joining the network, such as:
+* Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website]
+* Look for new items related to new Participants joining the network, such as:
 
 :figure-caption!:
 .News item on Sierra Leone joining GBIF as a Voting Participant in 2022.
 image::img/web/NewsItem.png[align=center,width=640,height=360]
 
-. For these examples, look more closely at:
-.. Which Ministry or Institution has signed the MOU?
-.. Who has been assigned as Head of Delegation and Node Manager? 
-.. Which reasons are given for why the Participant joined GBIF?
+* For these examples, look more closely at:
+** Which Ministry or Institution has signed the MOU?
+** Who has been assigned as Head of Delegation and Node Manager? 
+** Which reasons are given for why the Participant joined GBIF?
 
-. Keep note of these examples in your exercise sheet
+* Keep note of these examples in your exercise sheet
 
 
 === Key audiences to engage in GBIF at the national level
