@@ -11,13 +11,12 @@ In this module, we will:
 * identify and prioritize stakeholders to engage in moving towards GBIF Participation
 
 === Understanding GBIF's value
-
-[NOTE.activity]
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. 
 In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
-While watching these, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
-You will need these rationale for the activities later in the course.
 
+[NOTE.activity]
+*Activity* While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
+You will need these rationale for the activities later in the course.
 
 
 [NOTE.presentation]
@@ -27,16 +26,14 @@ If you are unable to watch the embeded Vimeo video, you can download it locally.
 video::FZAF5Sy8Nsc[youtube, height=540, width=960, align=center]
 
 
-
-
 === Process for becoming a GBIF Participant
 
-[NOTE.activity]
-In this section, you will learn what is required to become a member of GBIF.
+[NOTE.objectives]
+In this section, you will review the details on the process for becoming a member of GBIF and explore examples provided in news items about new GBIF Participants.
 
-****
+
 Review the information on the GBIF website about https://www.gbif.org/become-member[how to become a member^].
-****
+
 
 In the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
 
