@@ -208,17 +208,16 @@ Review the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#wh
 .Why are Participant nodes needed?
 image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
 
+=== Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
 
-=== Key audiences to engage in GBIF at the national level
+TIP: This exercise is based on the use case scenario for the fictious country of Darwinia. Please refer to the use case throughout when providing your answers. However, we encourage you to also consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
+
+==== Key audiences to engage in GBIF at the national level
 
 GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build a case for GBIF participation within your country or network. 
 
 [NOTE.documentation]
 Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^], focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
-
-
-=== Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
-
 
 === Exercise 2: Selecting rationale and arguments
 
