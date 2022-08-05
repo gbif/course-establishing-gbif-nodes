@@ -137,7 +137,7 @@ To summarise GBIF’s value from Ireland’s perspective:
 ====
 
 ====
-*Korea, Republic of*
+https://www.gbif.org/country/KR/summary[*Korea, Republic of*^]
 
 The data from Korean Biodiversity need to be registered and distributed through the GBIF’s integrated portal to manage and secure strategically the national biological resources. It is also necessary to respond to international issues of ABS* by following the Korea’s ratification in May 2017 on the Nagoya Protocol. In summary, I would like to say that the GBIF’s values are to collect and share the original data and samples of biological resources to people, and then they can use them for various purposes of environmental monitoring, biodiversity management & conservation, and further industrial uses in medicines, cosmetics, health functional foods, etc.
 
