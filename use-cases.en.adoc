@@ -22,7 +22,7 @@ After receiving training, the museum staff have now installed software for manag
 The herbarium is still using spreadsheets to manage their data, but has advanced with the digitization and has also published data to GBIF, after gaining permission to use the IPT hosted at the Darwinia natural history museum.
 
 :figure-caption!:
-.Photograph showing a display of specimens from a public exhibition by Melianie Raymond
+.Photograph showing a display of specimens from a public exhibition
 image::img/web/ButterflySpecimens.png[align=center,width=640,height=360]
 
 The staff in both collections are already recognizing the benefits of improved data management on the institutional level and of sharing their data across institutions. 
