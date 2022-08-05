@@ -67,8 +67,11 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node.
 
-[NOTE.activity] 
-Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization. In your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level.
+[NOTE.documentation] 
+Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
+
+[NOTE.forum]
+In your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level. We will discuss this topic during our first group call.
 
 In 2019, GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.
 A selection of the answers given are provided here. You can find further information about the GBIF Participant delegation structure by following the links to the country pages on the GBIF website.
@@ -179,8 +182,8 @@ To decision-makers, GBIF is communicated through the relevance of scientific pro
 
 Establishing a node is one of the key commitments that Participants make in joining GBIF. It is important to understand the roles that nodes play within GBIF, as well as the benefits that nodes provide on the national level.
 
-[NOTE.activity]
-Review the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide] in the nodes guidance document.  
+[NOTE.documentation]
+Review the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed^] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide^] in the nodes guidance document.  
 
 
 :figure-caption!:
@@ -190,9 +193,8 @@ image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
 
 === Key audiences to engage in GBIF at the national level
 
-
-
-=== Participatory approach to establish a Participant node
+GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build a case for GBIF participation within your country or network. 
+Review the document, focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
 
 
 === Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
@@ -200,13 +202,3 @@ image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
 
 === Exercise 2: Selecting rationale and arguments
 
-
-==== sub sub topic
-
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
-
-“Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
