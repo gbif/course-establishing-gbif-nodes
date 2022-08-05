@@ -42,8 +42,10 @@ endif::backend-pdf[]
 
 TIP: Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
 
+The details of how to become a member of GBIF, the description of Participant categories, the GBIF Memorandum of Understanding, and other templates are all provided on the GBIF website. 
+
 [NOTE.documentation]
-The details of how to become a member of GBIF, the description of Participant categories, the GBIF Memorandum of Understanding, and other templates are all provided on the GBIF website in the section about https://www.gbif.org/become-member[how to become a member^]. Read through this information in detail as is important to understand this process before moving on to the rest of the course. 
+Read through the information on https://www.gbif.org/become-member[how to become a member^] in detail as is important to understand this process before moving on to the rest of the course. Be sure to review the https://www.gbif.org/document/80661/gbif-memorandum-of-understanding[GBIF Memorandum of Understanding^] to understand the commitments that GBIF Participants make when joining the network.
 
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items.
