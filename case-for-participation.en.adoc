@@ -90,8 +90,7 @@ Conversely, it allows Australian researchers and decision makers access to data 
 GBIF has achieved what few other environmental domains have been able to achieve globally and acts as a strong exemplar to scientific and research funding infrastructure initiatives of the level of coordination and cooperation within the biodiversity domain.
 ====
 
-==== https://www.gbif.org/country/BE/summary[Belgium^] 
-image::https://emojipedia.org/flag-belgium/
+==== https://www.gbif.org/country/BE/summary[Belgium^] :belgium:
 
 ====
 image::https://www.gbif.org/img/flags/BE.png[align=center,width=78,height=40]
