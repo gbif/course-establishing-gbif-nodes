@@ -105,6 +105,7 @@ GBIF’s Data Citation mechanism is amongst the most advanced in open data and o
 [quote, Canada, Input to tour-de-table discussion, 2019]
 ____
 In communicating the value of GBIF to colleagues and funders, Canada emphasizes that:
+
 * GBIF provides Canadian citizens and stakeholders with an easy, reliable one-stop source available anywhere for accessing Canadian and global biodiversity information, wherever the data was generated;
 * GBIF provides great added value from the perspective that it facilitates aggregating relevant data from different sources and reviewing data quality which can be very labour-intensive.
 * Like many other countries, the Government of Canada committed to an Open Government Strategy. Membership in GBIF and contribution of Canadian biodiversity datasets directly supports Open Government activities.
