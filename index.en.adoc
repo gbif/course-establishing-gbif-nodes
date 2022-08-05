@@ -1,4 +1,4 @@
-= Establishing a GBIF Participant Node
+= Online course on National engagement in GBIF and establishing Participant Nodes
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
