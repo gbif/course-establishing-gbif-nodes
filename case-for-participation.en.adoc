@@ -118,10 +118,12 @@ For example, having detailed biodiversity data contributes to the Convention for
 https://www.gbif.org/country/GH/summary[*Ghana*^]
 
 I would like to summarise the value proposition of GBIF for Ghana in four ways:
+
 * GBIF is an international community and / infrastructure of excellence that is truly dedicated to serving open biodiversity data for science, conservation and policy.
 * GBIF is an excellent practitioner of the “new” and existing discipline of biodiversity informatics.
 * GBIF is a means to achieving national commitments to inter-governmental cooperation / agreements such as Clearing House Mechanisms (CHM) of the CBD.
 * GBIF is a powerful aggregator of worldwide biodiversity data that is crucial for biodiversity research and science.
+
 ====
 
 ====
