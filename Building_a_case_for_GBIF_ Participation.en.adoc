@@ -54,6 +54,18 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 * Keep note of these examples in your exercise sheet
 
 
+=== Benefits of GBIF Participation and of establishing a node
+
+Establishing a node is one of the key commitments in joining GBIF. 
+In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and the benefits of establishing a node.
+
+[NOTE.activity] 
+Read statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
+
+In 2019, GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders. 
+Review the examples provided here, and consider how they could help to communicate GBIF’s relevance to your country or organization. 
+
+
 === Key audiences to engage in GBIF at the national level
 
 
