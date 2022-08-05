@@ -104,8 +104,10 @@ Thanks to capacity enhancement programmes and numerous training workshops, GBIF	
 GBIF’s Data Citation mechanism is amongst the most advanced in open data and open science landscape. 
 ====
 
+==== https://www.gbif.org/country/CA/summary[*Canada*^]
+
 ====
-https://www.gbif.org/country/CA/summary[*Canada*^]
+image::https://www.gbif.org/img/flags/CA.png[align=center,width=78,height=40]
 
 In communicating the value of GBIF to colleagues and funders, Canada emphasizes that:
 
@@ -116,8 +118,10 @@ In communicating the value of GBIF to colleagues and funders, Canada emphasizes 
 For example, having detailed biodiversity data contributes to the Convention for Biological Diversity’s Aichi Target 19 on the sharing of biodiversity knowledge and also on target 9 (invasive species), target 11 (protected areas), target 12 (avoiding extinctions), and target 13 (conserving genetic resources).
 ====
 
+==== https://www.gbif.org/country/GH/summary[*Ghana*^]
+
 ====
-https://www.gbif.org/country/GH/summary[*Ghana*^]
+image::https://www.gbif.org/img/flags/GH.png[align=center,width=78,height=40]
 
 I would like to summarise the value proposition of GBIF for Ghana in four ways:
 
@@ -128,8 +132,10 @@ I would like to summarise the value proposition of GBIF for Ghana in four ways:
 
 ====
 
+==== https://www.gbif.org/country/IE/summary[*Ireland*^]
+
 ====
-https://www.gbif.org/country/IE/summary[*Ireland*^]
+image::https://www.gbif.org/img/flags/IE.png[align=center,width=78,height=40]
 
 To summarise GBIF’s value from Ireland’s perspective:
 
@@ -140,16 +146,20 @@ To summarise GBIF’s value from Ireland’s perspective:
 . It provides a valuable and good value for money resource for researchers within, and associated with, Ireland to use in biodiversity related research, thereby improving the evidence base on Ireland’s biodiversity and how it is changing.
 ====
 
+==== https://www.gbif.org/country/KR/summary[*Korea, Republic of*^]
+
 ====
-https://www.gbif.org/country/KR/summary[*Korea, Republic of*^]
+image::https://www.gbif.org/img/flags/KR.png[align=center,width=78,height=40]
 
 The data from Korean Biodiversity need to be registered and distributed through the GBIF’s integrated portal to manage and secure strategically the national biological resources. It is also necessary to respond to international issues of ABS* by following the Korea’s ratification in May 2017 on the Nagoya Protocol. In summary, I would like to say that the GBIF’s values are to collect and share the original data and samples of biological resources to people, and then they can use them for various purposes of environmental monitoring, biodiversity management & conservation, and further industrial uses in medicines, cosmetics, health functional foods, etc.
 
 .*Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from Their Utilization to the Convention on Biological Diversity
 ====
 
+==== https://www.gbif.org/country/MX/summary[*Mexico*^]
+
 ====
-https://www.gbif.org/country/MX/summary[*Mexico*^]
+image::https://www.gbif.org/img/flags/MX.png[align=center,width=78,height=40]
 
 GBIF is the most comprehensive source of free spatial biodiversity information in the world, really important since biodiversity does not recognise political frontiers and many analysis need to include the whole range of species distribution, assess invasive species, changes caused by climate change or other drivers. 
 Having access to those data has proved to be very useful tool, despite we might like to have additional data on species population, for example, to assess endangered species. 
@@ -157,8 +167,10 @@ For many megadiverse countries, this infrastructure provides the basic informati
 GBIF has already proved its value.
 ====
 
+==== https://www.gbif.org/country/PT/summary[*Portugal*^]
+
 ====
-https://www.gbif.org/country/PT/summary[*Portugal*^]
+image::https://www.gbif.org/img/flags/PT.png[align=center,width=78,height=40]
 
 We summarise GBIF’s value based on achievements obtained from our participation so far, starting by highlighting the measurable indicators of performance:
 
@@ -169,8 +181,10 @@ We summarise GBIF’s value based on achievements obtained from our participatio
 However, the major impact/value of GBIF for Portugal is highly focused on other components, namely Capacity Building, Infrastructures, Open Science and International Cooperation.
 ====
 
+==== https://www.gbif.org/country/TG/summary[*Togo*^]
+
 ====
-https://www.gbif.org/country/TG/summary[*Togo*^]
+image::https://www.gbif.org/img/flags/TG.png[align=center,width=78,height=40]
 
 GBIF is a community of biodiversity enthusiasts, a platform of scientists and policy makers working to link biodiversity data with science and development; a platform that strives to provide freely decision-making material for understanding biodiversity data for the purpose of preserving and conserving biodiversity for present and future generations. More than a platform, GBIF is a community.
 
