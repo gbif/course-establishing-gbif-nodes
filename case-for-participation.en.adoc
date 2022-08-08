@@ -236,5 +236,10 @@ image::img/web/StakeholderMatrix.PNG[align=center,width=640,height=360]
 [NOTE.activity]
 In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the priorization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers. 
 
-=== Exercise 2: Selecting rationale and arguments
+=== Targeting specific stakeholders' interests 
+
+As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are also wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under other multilateral environmental agreements. 
+For example, GBIF Participant countries that join through their Ministry of Environment, which often also oversee the responsibilities under the Convention on Biological Diversity, may have different priorities and interests than those Participants who join through their Ministry of Science, which may oversee research infrastructures within the country. 
+
+
 
