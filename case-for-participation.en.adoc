@@ -80,6 +80,7 @@ Quiz yourself on the concepts learned in this section.
 - [ ] They ratify the GBIF protocol
 ....
 
+****
 
 === Benefits of GBIF Participation
 
