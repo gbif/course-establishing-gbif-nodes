@@ -200,11 +200,9 @@ There are often existing institutions and networks within a country at the time 
 Understanding this landscape can help in deciding where to position a new node, and what its priorities should be. 
 The coordination role is often especially important.
 
+[NOTE.activity]
 After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country. 
 Keep note of this in your exercise sheet.
-
-
-
 
 === Exercise 1: Identifying and prioritizing stakeholders to engage towards GBIF Participation
 
@@ -212,7 +210,8 @@ TIP: This exercise is based on the <<use-case,use case scenario>> for the fictio
 Please refer to the context provided in the use case scenario when providing your answers. 
 However, we encourage you to also consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
-When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. One way to guide this thought process is to map the stakeholders onto a matrix that looks at:
+When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. 
+One way to guide this thought process is to map the stakeholders onto a matrix that looks at:
 
 . How likely each stakeholder is to support the desired outcome (in this case, the country becoming a GBIF Participant and establishing a node)
 . How much influence each stakeholder is likely to have on the outcome (remembering that for a country to join, signature of the MOU may come from a minister or senior official in a relevant government department or designated national agency)
