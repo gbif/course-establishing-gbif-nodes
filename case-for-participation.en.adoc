@@ -15,8 +15,7 @@ In this module, we will:
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
 
 [NOTE.activity]
-While watching the videos in this section, consider and take note of rationale that could help you to build a case for participation in the GBIF network.
-You will need these rationale for the activities later in the course.
+While watching the videos in this section, consider rationale that could help you to build a case for participation in the GBIF network. Keep note of these in your exercise sheet.
 
 [NOTE.presentation]
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
@@ -48,7 +47,7 @@ The details of how to become a member of GBIF, the description of Participant ca
 Read through the information on https://www.gbif.org/become-member[how to become a member^] in detail. It is important to understand this process before moving on to the rest of the course. Be sure to review the https://www.gbif.org/document/80661/gbif-memorandum-of-understanding[GBIF Memorandum of Understanding^] to understand the commitments that GBIF Participants make when joining the network.
 
 [NOTE.activity]
-To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items.
+To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
 * Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website]
 * Look for new items related to new Participants joining the network, such as:
