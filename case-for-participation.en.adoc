@@ -6,8 +6,8 @@
 
 In this module, we will:
 
-* describe what is involved in the modes of formal GBIF Participation and the benefits this brings
-* understand how individuals, institutions and countries can participate in GBIF
+* review the process for formal GBIF Participation and the benefits this brings
+* understand GBIF's value and how this can be communicated to different audiences
 * identify and prioritize stakeholders to engage in moving towards GBIF Participation
 
 
@@ -50,6 +50,7 @@ Read through the information on https://www.gbif.org/become-member[how to become
 .GB26 group photo by Henk Caspers, Naturalis Biodiversity Center, 2019
 image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 
+
 ==== Investigating recent examples of new GBIF Participants
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
@@ -67,6 +68,7 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 ** Which reasons are given for why the Participant joined GBIF?
 
 * Write up your examples in your exercise sheet
+
 
 ==== Test your understanding
 
