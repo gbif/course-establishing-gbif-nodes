@@ -238,7 +238,7 @@ In your exercise sheet, referring to the use case scenario, identify all the sta
 
 === Targeting specific stakeholders' interests 
 
-As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are also wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under other multilateral environmental agreements. 
+As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under other multilateral environmental agreements. 
 For example, GBIF Participant countries that join through their Ministry of Environment, which often also oversee the responsibilities under the Convention on Biological Diversity, may have different priorities and interests than those Participants who join through their Ministry of Science, which may oversee research infrastructures and funding within the country. 
 
 TIP: The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introducues the importance of targeting your messages to align with the needs and interests of your specific audience. Refer to it while preparing for the exercises in this section.
