@@ -247,6 +247,11 @@ TIP: The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communi
 For the final activity in this module, you will prepare and role-play a succinct and convincing pitch to a relevant Ministry of your choice in order to engage them towards GBIF Participation.  
 Your pitch should be based on the <<use-case,use case scenario>> for the fictious country of Darwinia. Document your pitch in your exercise sheet.
 
+:figure-caption!:
+.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes.
+image::img/web/Pitch.jpg[align=center,width=640,height=360]
+
+
 [quote, GBIF Communication Strategy] 
 GBIF’s future depends in part on remaining useful and relevant to a relatively small number of decision makers in key policymaking and funding positions. 
 If these funders and executives are unconvinced of GBIF’s utility value, it will not survive even if all other aspects of its communication strategy are successful.
