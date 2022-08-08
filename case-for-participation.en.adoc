@@ -250,7 +250,7 @@ Document your pitch in your exercise sheet.
 Once you have prepared your pitch, consider also the types of questions that a Ministry representative might ask in response, and keep note of these in your exercise sheet.
 
 :figure-caption!:
-.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes.
+.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes, Cameroon, 2019.
 image::img/web/Pitch.jpg[align=center,width=640,height=360]
 
 In preparing your pitch, consider the specific needs and interests of the Ministry you wish to target in the fictitious country of Darwinia. 
@@ -273,5 +273,5 @@ During the second week of your course, organize a session to role play your pitc
 * Have fun with this activity - and remember that practice will really help!
 
 :figure-caption!:
-.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes.
+.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes, Trinidad, 2019.
 image::img/web/Pitch2.jpg[align=center,width=640,height=360]
