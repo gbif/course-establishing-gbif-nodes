@@ -2,7 +2,7 @@
 == Course description
 
 ****
-This course aims to support teams working on GBIF funded projects, observers and other interested participants in the first stages of establishing a GBIF Participant node. 
+This course aims to support teams working on GBIF funded projects, observers and other interested participants in the first stages of building a case for formal Participation in GBIF and establishing a GBIF Participant node. 
 
 Topics include:
 
@@ -15,11 +15,11 @@ Topics include:
 * Ongoing support for developing Participant nodes
 
 
-This course is comprised of video instruction paired with quizzes and practical exercises. Course participants will be put in groups and social interaction is encouraged. Completing the four practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification. 
+This course is comprised of videos and documentation paired with quizzes and practical exercises. Course participants will be put into peer groups and social interaction is encouraged. Completing the practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification. 
 ****
 
 === Audience
-This course is for...
+This course is aimed at teams engaged in GBIF's capacity development programmes based in countries or organizations that are not yet formal GBIF Participants. Encouraging national Participation and the establishment of a Participant node is a good way to ensure the sustainabilty of efforts started through capacity development projects focused on biodiversity data mobilization and use.
 
 === Prerequisites
 
@@ -37,9 +37,6 @@ This course is for...
 // inlude if needed, otherwise remove
 === Certification
 
-Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification in the form of a Mozilla Open Badge.
+Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification.
 
-Participants are required to submit ... and it is scored against the educational rubrics for the course. 
-
-* An overall score of ??? earns a BASIC badge
-* An overall score of ??? earns an ADVANCED badge
+Participants are required to submit their exercise sheets, peer-review forms, and attend the two live sessions to receive certification.
