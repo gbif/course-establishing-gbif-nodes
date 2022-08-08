@@ -11,5 +11,5 @@ The videos are narrated in English. Subtitles are not available for the download
 link:../videos/linkname.zip[linkname.zip,opts=download] (??.? MB)
 
 === Exercise sheets
-This link:../course-docs/Module-1-Exercise-sheet-EN.docx[will download exercise sheet 1,opts=download] (71.9 MB). 
+This link link:../course-docs/Module-1-Exercise-sheet-EN.docx[will download Exercise Sheet 1,opts=download] (71.9 MB) for the first module. 
 The exercises sheets are written in English and should be completed in English.
