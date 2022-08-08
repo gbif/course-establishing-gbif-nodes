@@ -46,6 +46,10 @@ The details of how to become a member of GBIF, the description of Participant ca
 [NOTE.documentation]
 Read through the information on https://www.gbif.org/become-member[how to become a member^] in detail. It is important to understand this process before moving on to the rest of the course. Be sure to review the https://www.gbif.org/document/80661/gbif-memorandum-of-understanding[GBIF Memorandum of Understanding^] to understand the commitments that GBIF Participants make when joining the network.
 
+:figure-caption!:
+.GB26 group photo by Henk Caspers, Naturalis Biodiversity Center, 2019
+image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
+
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
