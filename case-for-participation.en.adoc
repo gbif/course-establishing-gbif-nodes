@@ -79,7 +79,27 @@ Quiz yourself on the concepts learned in this section.
 - [ ] They sign a legally binding document called the GBIF Memorandum of Cooperation
 - [ ] They ratify the GBIF protocol
 ....
+// Question 2
+. Who is can sign on behalf of the country when completing the process for becoming a GBIF Participant?
++
+[question, mc]
+....
 
+- [ ] Signature must come from the Head of State
+- [ ] Signature may come from any university or natural history museum within a country
+- [x] Signature may come from a minister or senior official in a relevant government department or designated national agency
+....
+// Question 3
+. Which of the following is NOT a category of GBIF membership?
++
+[question, mc]
+....
+
+- [ ] Voting Participants
+- [ ] Associate Country Participants
+- [x] Other Voting Participants
+- [ ] Other Associate Participants
+....
 ****
 
 === Benefits of GBIF Participation
