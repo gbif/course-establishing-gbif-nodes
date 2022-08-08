@@ -50,6 +50,7 @@ Read through the information on https://www.gbif.org/become-member[how to become
 .GB26 group photo by Henk Caspers, Naturalis Biodiversity Center, 2019
 image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 
+==== Investigating recent examples of new GBIF Participants
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
