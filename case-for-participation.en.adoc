@@ -264,11 +264,13 @@ The communication needs of this group are characterized by *brevity and clarity;
 
 [NOTE.forum]
 During the second week of your course, organize a session to role play your pitch with your peer learning group.  You will need to allocate at least 60 minutes for this session and remember to record the session and share this with your mentors.
-Take it in turn to role play the delivery of your pitch, remembering to inform your group which Ministry you are targeting.
-The other group members can ask questions, taking on the role of Ministry representatives.
-Once you have all completed the exercise, take some time to provide each other with feedback. 
-Consider what went well, and what could be done to make it even better next time. 
-Have fun with this activity - and remember that practice will really help!
+
+
+* Take it in turn to role play the delivery of your pitch, remembering to inform your group which Ministry you are targeting.
+* The other group members can ask questions, taking on the role of Ministry representatives.
+* Once you have all completed the exercise, take some time to provide each other with feedback. Consider what went well, and what could be done to make it even better next time. 
+* Upload your group's recording into the shared folder.
+* Have fun with this activity - and remember that practice will really help!
 
 :figure-caption!:
 .Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes.
