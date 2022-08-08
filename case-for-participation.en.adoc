@@ -66,9 +66,9 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 ** Who has been assigned as Head of Delegation and Node Manager? 
 ** Which reasons are given for why the Participant joined GBIF?
 
-* Keep note of these examples in your exercise sheet
+* Write up your examples in your exercise sheet
 
-==== Review your understanding
+==== Test your understanding
 
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
