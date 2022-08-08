@@ -262,7 +262,7 @@ GBIF’s future depends in part on remaining useful and relevant to a relatively
 If these funders and executives are unconvinced of GBIF’s utility value, it will not survive even if all other aspects of its communication strategy are successful.
 The communication needs of this group are characterized by *brevity and clarity; messages must be conveyed strategically, succinctly and persuasively, and often delivered opportunistically and at short notice*. Decision makers are the primary consumers of the ‘elevator pitch’—the 30-second explanation of GBIF’s value that can influence participation or withdrawal of support from governments and agencies.
 
-[NOTE.Forum]
+[NOTE.forum]
 During the second week of your course, organize a session to role play your pitch with your peer learning group.  You will need to allocate at least 60 minutes for this session and remember to record the session and share this with your mentors.
 Take it in turn to role play the delivery of your pitch, remembering to inform your group which Ministry you are targeting.
 The other group members can ask questions, taking on the role of Ministry representatives.
