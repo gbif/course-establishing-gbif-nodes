@@ -270,3 +270,6 @@ Once you have all completed the exercise, take some time to provide each other w
 Consider what went well, and what could be done to make it even better next time. 
 Have fun with this activity - and remember that practice will really help!
 
+:figure-caption!:
+.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes.
+image::img/web/Pitch2.jpg[align=center,width=640,height=360]
