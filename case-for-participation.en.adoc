@@ -63,6 +63,24 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 * Keep note of these examples in your exercise sheet
 
+==== Review your understanding
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+****
+// Question 1
+. How do countries, economies, intergovernmental/international organizations, and organizations with international scope join GBIF as Participants?
++
+[question, mc]
+....
+
+- [x] They sign a voluntary non-binding instrument called the GBIF Memorandum of Understanding
+- [ ] They sign a legally binding document called the GBIF Memorandum of Cooperation
+- [ ] They ratify the GBIF protocol
+....
+
+
 === Benefits of GBIF Participation
 
 In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and of establishing a node. 
