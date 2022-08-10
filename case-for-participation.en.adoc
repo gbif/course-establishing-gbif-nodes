@@ -21,7 +21,8 @@ While watching the videos in this section, consider rationale that could help yo
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
 If you are unable to watch the embeded Vimeo video, you can download it locally.
 
-video::656603612[vimeo, height=540, width=960, align=center]
+[.responsive-video]
+video::656603612[vimeo]
 
 [NOTE.presentation]
 In these six videos (<15:00) you will learn about the value of GBIF to different thematic areas. 
@@ -68,7 +69,6 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 ** Which reasons are given for why the Participant joined GBIF?
 
 * Write up your examples in your exercise sheet
-
 
 ==== Test your understanding
 
@@ -331,7 +331,6 @@ The communication needs of this group are characterized by *brevity and clarity;
 
 [NOTE.forum]
 During the second week of your course, organize a session to role play your pitch with your peer learning group.  You will need to allocate at least 60 minutes for this session and remember to record the session and share this with your mentors.
-
 
 * Take it in turn to role play the delivery of your pitch, remembering to inform your group which Ministry you are targeting.
 * The other group members can ask questions, taking on the role of Ministry representatives.
