@@ -1,5 +1,5 @@
 [multipage-level=2]
-== Building a case for formal engagement in GBIF
+== Building a case for engagement in GBIF
 
 [NOTE.objectives]
 *Objectives*
