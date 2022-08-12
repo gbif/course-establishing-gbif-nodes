@@ -14,7 +14,7 @@ In the use case, you will follow the story of a team based at a natural history 
 
 === Developing a national Participant node in Darwinia
 
-==== Getting started with digitization and open access to biodiversity data
+===== Getting started with digitization and open access to biodiversity data
 
 The *Darwinia natural history museum*, the largest biological collection based in the nation of Darwinia, responded to a call for proposals for biodiversity data mobilization projects issued by the Global Biodiversity Information Facility (GBIF), in partnership with the smaller herbarium collection at the *Darwinia National University*. 
 Both project partners had limited capacity in data management prior to the project, but succeeded in getting a grant to begin digitizing their collections.
@@ -29,7 +29,7 @@ The staff in both collections are already recognizing the benefits of improved d
 The national university has recently started a Master’s programme for biodiversity and conservation studies within the biology faculty and is keen to integrate teaching on biodiversity informatics within the course. 
 Both institutions receive national funding through the *Ministry for Research, Science and Higher Education*.
 
-==== National context
+===== National context
 
 Darwinia is not yet a GBIF Participant and there is no national node in the country. 
 The project team held a national workshop to try to engage with potential users of the data they are publishing.
@@ -53,7 +53,7 @@ image::img/web/Leave nothing but your footprints.jpg[align=center,width=640,heig
 Several *international conservation bodies (WWF, IUCN etc.)* have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them. 
 Citizen science has not yet taken off in the country, and only a few tourists are making use of citizen science applications.
 
-==== Threats to biodiversity
+===== Threats to biodiversity
 
 Darwinia has an active *extraction industry*, which employs *environmental and social impact assessment consultants*. 
 There is currently no public access to these data and they are not consistently formatted. 
