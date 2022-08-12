@@ -1,4 +1,4 @@
-= Peer-learning course on national engagement and establishing Participant nodes
+= Course on formal engagement and establishing Participant nodes
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
