@@ -6,16 +6,14 @@
 
 In this module, we will:
 
-* review the process for formal GBIF Participation and the benefits this brings
 * understand GBIF's value and how this can be communicated to different audiences
+* review the process for formal GBIF Participation and the benefits this brings
 * identify and prioritize stakeholders to engage in moving towards GBIF Participation
 
+In each section, there are learning materials to review, either in the form of videos to watch or documentation to read, and activities to complete in your exercise sheet. 
 
 === Understanding GBIF's value
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
-
-[NOTE.activity]
-While watching the videos in this section, consider rationale that could help you to build a case for participation in the GBIF network. Keep note of these in your exercise sheet.
 
 [NOTE.presentation]
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
@@ -37,6 +35,9 @@ ifndef::backend-pdf[]
 <div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/9461923/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 ++++
 endif::backend-pdf[]
+
+[NOTE.activity]
+After watching the videos in this section, keep note of at least five rationale statements for why GBIF is of value to its Participants in your exercise sheet. 
 
 === Process for becoming a GBIF Participant
 
