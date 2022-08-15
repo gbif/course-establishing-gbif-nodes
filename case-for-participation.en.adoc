@@ -41,9 +41,11 @@ After watching the videos in this section, keep note, in your exercise sheet, of
 
 === Process for becoming a GBIF Participant
 
-TIP: Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
+In this section, we will review the details of how to become a member of GBIF, the description of Participant categories, the GBIF Memorandum of Understanding, and other templates that are all provided on the GBIF website. 
+We will then investigate recent examples of new GBIF Participants to better understand their pathway to formal engagement in the GBIF network. 
+Finally, take a quiz to check your understanding of some key points from this section.
 
-In this section, we will review the details of how to become a member of GBIF, the description of Participant categories, the GBIF Memorandum of Understanding, and other templates that are all provided on the GBIF website. We will then investigate recent examples of new GBIF Participants to better understand their pathway to formal engagement in the GBIF network. Finally, you can take a quiz to check your understanding of some key points from this section.
+TIP: Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure. 
 
 [NOTE.documentation]
 Read through the information on https://www.gbif.org/become-member[how to become a member^] in detail. It is important to understand this process before moving on to the rest of the course. Be sure to review the https://www.gbif.org/document/80661/gbif-memorandum-of-understanding[GBIF Memorandum of Understanding^] to understand the commitments that GBIF Participants make when joining the network.
@@ -52,8 +54,7 @@ Read through the information on https://www.gbif.org/become-member[how to become
 .GBIF Governing Board delegates and Secretariat staff at GB26. Photo by Henk Caspers, Naturalis Biodiversity Center, 2019
 image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 
-
-==== Investigating new GBIF Participants
+==== Examples of new Participants
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
