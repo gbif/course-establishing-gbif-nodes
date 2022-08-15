@@ -53,7 +53,7 @@ Read through the information on https://www.gbif.org/become-member[how to become
 image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 
 
-==== Investigating recent examples of new GBIF Participants
+==== Investigating new GBIF Participants
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
@@ -71,7 +71,7 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 * Write up your examples in your exercise sheet
 
-==== Test your understanding
+==== Check your understanding
 
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
