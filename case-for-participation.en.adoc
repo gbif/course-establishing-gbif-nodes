@@ -273,6 +273,34 @@ The coordination role is often especially important.
 After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country or organization, and which you would consider to be gaps. 
 Keep note of this in your exercise sheet.
 
+==== Check your understanding
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+****
+// Question 1
+. Which of the following is NOT a typical benefit of establishing a Participant node?
++
+[question, mc]
+....
+
+- [ ] Nodes help to raise the visibility of data publishing institutions
+- [x] Nodes gain access to an annual budget from the GBIF Secretariat
+- [ ] Nodes participate in capacity development programmes and projects funded by GBIF
+....
+// Question 2
+. Which of the following is NOT a service that Participant nodes typically provide?
++
+[question, mc]
+....
+
+- [ ] Providing endorsement of biodiversity data publishers to be added to the GBIF network
+- [ ] Providing guidance on the implementation of GBIF work programmes in line with Participant priorities
+- [x] Providing monthly reports to the GBIF Secretariat on data mobilization progress
+....
+****
+
 === Prioritizing stakeholders to engage towards GBIF Participation
 
 TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
