@@ -142,9 +142,6 @@ You can find further information about each GBIF Participant delegation by follo
 [NOTE.documentation] 
 Read these statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization.
 
-[NOTE.forum]
-After reading the statements, in your exercise sheet, note down at least three ways in which national Participants consider GBIF to be of value on the national level. We will discuss this topic during our first group call.
-
 ==== 🇦🇺{nbsp}https://www.gbif.org/country/AU/summary[Australia^]
 
 ====
@@ -245,6 +242,9 @@ This commendable initiative can only be communicated by illustration.
 To scientists and researchers through the many applications that are emerging and that help in the analysis and understanding of the data mobilized and available in open access. 
 To decision-makers, GBIF is communicated through the relevance of scientific productions resulting from the analysis of available data and taking into account their concerns, particularly in terms of management, preservation or conservation of the environment in order to mitigate the effects related to climate change.
 ====
+
+[NOTE.activity]
+After reading the statements from some of the GBIF Participant countries on how they communicate GBIF’s value on that national level, look for the topics that are mentioned frequently and that you think could be relevant to your country or organization.  Note down at least three examples on your exercise sheet. 
 
 === Benefits of establishing a node
 
