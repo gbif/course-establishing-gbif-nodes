@@ -10,7 +10,10 @@ In this module, we will:
 * review the process for formal GBIF Participation and the benefits this brings
 * identify and prioritize stakeholders to engage in moving towards GBIF Participation
 
-In each section, there are learning materials to review, either in the form of videos to watch or documentation to read, and activities to complete in your exercise sheet. 
+In each section, you will start by reviewing learning materials, either in the form of videos to watch or documentation to read. 
+You will then complete an activity to reflect on how the learning materials relate to building a case for engagement in GBIF. 
+Keep note of your answers in your exercise sheet.
+In some sections, quiz questions are provided for you to get instant feedback as you check your understanding of the content. 
 
 === Understanding GBIF's value
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
@@ -257,6 +260,8 @@ Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-
 :figure-caption!:
 .Why are Participant nodes needed?
 image::img/web/NodesBenefits.PNG[align=center,width=640,height=360]
+
+==== Node services
 
 Nodes typically provide services in four key areas:
 
