@@ -252,7 +252,7 @@ Establishing a node is one of the key commitments that Participants make in join
 It is important to understand the roles that nodes play within GBIF, as well as the benefits that nodes provide on the national level.
 
 [NOTE.documentation]
-Review the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed^] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide^] in the nodes guidance document.
+Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed^] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide^] in the nodes guidance document.
 
 :figure-caption!:
 .Why are Participant nodes needed?
@@ -270,10 +270,10 @@ Understanding this landscape can help in deciding where to position a new node, 
 The coordination role is often especially important.
 
 [NOTE.activity]
-After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country. 
+After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country or organization, and which you would consider to be gaps. 
 Keep note of this in your exercise sheet.
 
-=== Identifying and prioritizing stakeholders to engage towards GBIF Participation
+=== Prioritizing stakeholders to engage towards GBIF Participation
 
 TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
 Please refer to the context provided in the use case scenario when providing your answers. 
@@ -283,7 +283,7 @@ We encourage you to also consider how this would apply to your national context 
 
 When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. 
 
-==== Key audiences to engage in GBIF at the national level
+==== Key audiences
 
 GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build engagement. 
 It can also help you consider the groups to engage when building a case for GBIF participation within your country or network. 
