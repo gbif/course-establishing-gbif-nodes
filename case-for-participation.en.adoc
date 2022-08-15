@@ -138,7 +138,8 @@ Quiz yourself on the concepts learned in this section. Click resolve to get inst
 
 In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and of establishing a node. 
 In 2019, during GBIF's Governing Board meeting, the GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.
-A selection of the answers given are provided here. 
+A selection of the answers given are provided here for you to review and compare. 
+Consider which benefits of Participation are common across the statements and which are unique to the specific Participant concerned. 
 You can find further information about each GBIF Participant delegation by following the links to the country pages on the GBIF website.
 
 [NOTE.documentation] 
