@@ -318,7 +318,7 @@ It can also help you consider the stakeholder groups to engage when building a c
 [NOTE.documentation]
 Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^], focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
 
-==== Exercise 1
+==== Prioritizing stakeholders - Exercise 1
 
 TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
 Please refer to the context provided in the use case scenario when providing your answers in the exercise sheet. 
@@ -338,12 +338,15 @@ In your exercise sheet, referring to the use case scenario, identify all the sta
 [NOTE.forum]
 While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
-=== Targeting specific stakeholders' interests 
+==== Targeting specific stakeholders' interests 
 
 As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements. 
-For example, GBIF Participant countries that join through their Ministry of Environment, which often also oversee the responsibilities under the Convention on Biological Diversity, may have different priorities and interests than those Participants who join through their Ministry of Science, which may oversee research infrastructures and funding within the country. 
+For example, GBIF Participant countries may have different priorities and interests depending on which Ministry signs the Memorandum of Understanding. 
+Ministries of Environment often also oversee the responsibilities under the Convention on Biological Diversity, while Ministries of Science may oversee research infrastructures and funding within the country. 
 
-TIP: The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introducues the importance of targeting your messages to align with the needs and interests of your specific audience. Refer to it while preparing for the exercises in this section.
+The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introduces the importance of targeting your messages to align with the needs and interests of your specific audience.
+
+==== Preparing a pitch - Exercise 2
 
 [NOTE.activity]
 For the final activity in this module, you will prepare and role-play a succinct and convincing pitch to a relevant Ministry of your choice in order to engage them towards GBIF Participation.  
