@@ -306,25 +306,22 @@ Quiz yourself on the concepts learned in this section. Click resolve to get inst
 ....
 ****
 
-=== Prioritizing stakeholders to engage towards GBIF Participation
-
-TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
-Please refer to the context provided in the use case scenario when providing your answers. 
-
-[NOTE.forum]
-We encourage you to also consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
+=== Engaging stakeholders towards GBIF Participation
 
 When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. 
 
 ==== Key audiences
 
 GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build engagement. 
-It can also help you consider the groups to engage when building a case for GBIF participation within your country or network. 
+It can also help you consider the stakeholder groups to engage when building a case for GBIF participation within your country or network. 
 
 [NOTE.documentation]
 Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^], focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node.
 
-==== Prioritizing stakeholders
+==== Exercise 1
+
+TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
+Please refer to the context provided in the use case scenario when providing your answers in the exercise sheet. 
 
 One way to guide the thought process around prioritizing who to engage in building a case for GBIF Participation is to map the stakeholders onto a matrix that looks at:
 
@@ -337,6 +334,9 @@ image::img/web/StakeholderMatrix.PNG[align=center,width=640,height=360]
 
 [NOTE.activity]
 In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the priorization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers. 
+
+[NOTE.forum]
+While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
 === Targeting specific stakeholders' interests 
 
