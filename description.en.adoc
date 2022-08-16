@@ -2,20 +2,20 @@
 == Course description
 
 ****
-This course aims to support teams working on GBIF funded projects, observers and other interested participants in the first stages of building a case for formal Participation in GBIF and establishing a GBIF Participant node. 
+This course aims to support teams working on GBIF funded projects, observers and other interested participants in the first stages of building a case for formal Participation in GBIF and establishing a Participant node. 
 
 Topics include:
 
-* Benefits of GBIF Participation and of estblishing a Participant Node
+* Benefits of GBIF Participation and of establishing a Participant Node
 * Process for joining GBIF
 * Key audiences to engage in GBIF at a national level
 * Participatory approach to establishing a Participant node
-* Nodes models and governance
-* Planning and reporting documents for a GBIF Participant node
-* Ongoing support for developing Participant nodes
+* Ongoing support towards formal GBIF Participation and for establishing nodes
 
 
-This course is comprised of videos and documentation paired with quizzes and practical exercises. Course participants will be put into peer groups and social interaction is encouraged. Completing the practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification. 
+This course is comprised of videos and documentation paired with quizzes and practical exercises. 
+Course participants will be put into peer groups and social interaction is encouraged. 
+Completing the practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification. 
 ****
 
 === Audience
