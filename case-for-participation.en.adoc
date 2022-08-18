@@ -379,3 +379,15 @@ During the second week of your course, organize a session to role play your pitc
 :figure-caption!:
 .Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes, Trinidad, 2019.
 image::img/web/Pitch2.jpg[align=center,width=640,height=360]
+
+=== Participatory approach to establishing nodes
+
+Establishing a node is one of the commitments that Participants make when joining GBIF.  
+We recommend that Participants start planning for their node as early as possible in the process of joining GBIF. 
+
+Nodes play an essential role in helping to coordinate activities relating to GBIF within the country or organization’s scope and in linking these to the global network. 
+Having an effective node is essential to ensuring that the Participant benefits fully from their membership in GBIF. 
+
+[NOTE.documentation]
+Read the section on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#establishing-process[the recommeneded process for establishing a Participant node^] in the nodes guidance document.
+
