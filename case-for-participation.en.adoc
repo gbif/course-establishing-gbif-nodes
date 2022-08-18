@@ -401,6 +401,6 @@ Read the section on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#estab
 
 :figure-caption!:
 .Participatory approach to establishing a node
-image::img/web/ParticipatoryApproach.png[align=center,width=640,height=360]
+image::img/web/ParticipatoryApproach.png[align=center,width=796,height=534]
 
 
