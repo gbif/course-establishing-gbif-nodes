@@ -384,7 +384,7 @@ Consider also the types of questions that a Ministry representative might ask in
 TIP: Make sure to have fun with this activity - and remember that practice will really help!
 
 :figure-caption!:
-.Role-playing scenarios of pitching a case for GBIF Participation during previous BID workshops on establishing GBIF Participant nodes, Trinidad, 2019.
+.Pitching a case for GBIF Participation during BID workshop on establishing GBIF Participant nodes, Trinidad, 2019.
 image::img/web/Pitch2.jpg[align=center,width=640,height=360]
 
 === Participatory approach to establishing nodes
