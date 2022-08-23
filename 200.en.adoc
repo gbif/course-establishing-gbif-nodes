@@ -1,10 +1,10 @@
 [multipage-level=2]
 == Engaging stakeholders towards establishing a node
 
-This section invites you to explore through practical excercises how you can get involved in engaging stakeholders to make the case for formal GBIF Participation and for the establishment of a new node. 
+This section invites you to explore through *three practical excercises* how you can get involved in engaging stakeholders to make the case for formal GBIF Participation and for the establishment of a new node. 
 The exercises have been designed to use the <<use-case,use case scenario>> for the fictious country of Darwinia, but we encourage you to consider at each step how this applies to your own national or organizational context.
 
-Remember that discussing your approach to these exercises with your peers and mentors will help you to refine your ideas and strengthen your case. The GBIF nodes work together as a community, recognizing the importance of collaboration and learning from others' experiences to develop the capacity of the nodes and GBIF as network.
+Remember that discussing your approach to these exercises with your peers and mentors will help you to refine your ideas and strengthen your case. The GBIF nodes work together as a community, recognizing the importance of collaboration and learning from others' experiences to develop the capacity of GBIF as a whole.
 
 :figure-caption!:
 .Node Managers at the Global Nodes Training workshop, Leiden 2019.
