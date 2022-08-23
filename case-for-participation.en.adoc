@@ -411,7 +411,11 @@ Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#what
 .Participatory approach to establishing a node
 image::img/web/ParticipatoryApproach.png[align=center,width=796,height=534]
 
-GBIF recommends taking a participatory approach to estabilishing a node, in order to build collaboaration among the key stakeholders and establish a clear mandate for the node from the start.
+GGBIF recommends taking a participatory approach to establishing a node, in order to build collaboration among the key stakeholders and establish a clear mandate for the node from the start.
 In an ideal scenario, nodes will have access to a strong team and appropriate budget to enable them to carry out all the https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[services that nodes provide^] that we looked at in an earlier section.
 Often, however, nodes start with a small team and limited resources.
-In order to be most effective, nodes should consider which roles are essential for them to carry out, and which can be delegated to other stakeholders
+In order to be most effective, nodes should consider which roles are essential for them to carry out, and which can be delegated to other stakeholders in the network they will be establishing. 
+A good way to formalize these collaborations and shared roles is to establish governance structures, such as a board or steering committee, as well as advisory committees, such as a scientific advisory committee.
+
+[NOTE.documentation]
+Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-national-biodiversity-information-facility-in-chile[guiding example^] from the node in Chile, in which they discuss the establishment of their node through a process involving needs assessment and community consultation.
