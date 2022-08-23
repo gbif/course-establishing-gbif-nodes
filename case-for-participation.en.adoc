@@ -44,7 +44,7 @@ In October 2018, the National Biodiversity Data Centre, Ireland, hosted the GBIF
 If you are unable to watch the embeded YouTube video, you can download it locally.
 
 [.responsive-video]
-video::62bv2Iz0cJ0g[youtube]
+video::2bv2Iz0cJ0g[youtube]
 
 [NOTE.activity]
 After watching the videos in this section, keep note in your exercise sheet of at least five rationale statements for why GBIF is of value to its Participants. 
