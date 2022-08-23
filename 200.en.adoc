@@ -1,11 +1,11 @@
 [multipage-level=2]
-== Engaging stakeholders and establishing a node
+== Engaging stakeholders towards establishing a node
 
 === Engaging stakeholders towards GBIF Participation
 
 When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. 
 
-==== Key audiences
+*Key audiences*
 
 GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build engagement. 
 It can also help you consider the stakeholder groups to engage when building a case for GBIF participation within your country or network. 
@@ -33,7 +33,7 @@ In your exercise sheet, referring to the use case scenario, identify all the sta
 [NOTE.forum]
 While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
-==== Targeting specific stakeholders' interests 
+=== Targeting specific stakeholders' interests 
 
 As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements. 
 The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introduces the importance of targeting your messages to align with the needs and interests of your specific audience.
