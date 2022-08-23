@@ -40,7 +40,7 @@ ifndef::backend-pdf[]
 endif::backend-pdf[]
 
 [NOTE.presentation]
-In this video (10:36) from the National Biodiversity Data Centre, Ireland, that hosted the Governing Board meeting in Kilkenny in October 2018, members of the GBIF Secretariat and Governing Board discuss GBIF's relevance. 
+In October 2018, the National Biodiversity Data Centre, Ireland, hosted the GBIF Governing Board meeting in Kilkenny. In this video (10:36), members of the GBIF Secretariat and Governing Board discuss GBIF's relevance. 
 If you are unable to watch the embeded YouTube video, you can download it locally.
 
 [.responsive-video]
