@@ -420,3 +420,7 @@ A good way to formalize these collaborations and shared roles is to establish *g
 
 [NOTE.documentation]
 Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-national-biodiversity-information-facility-in-chile[guiding example^] from the node in Chile, in which they discuss the establishment of their node through a process involving needs assessment and community consultation.
+
+==== Scoping a node - Exercise 3
+
+
