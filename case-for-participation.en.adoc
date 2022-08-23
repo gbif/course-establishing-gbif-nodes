@@ -432,20 +432,20 @@ TIP: There are multiple valid ways to approach this exercise - we are not expect
 [NOTE.activity]
 In your exercise sheet, referring to the use case scenario, develop a recommendation for the establishment of a new Participant node in Darwinia. 
 
-. *Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node. Imagine and write down three priority areas for the new node in your exercise sheet. 
+* *Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node. Imagine and write down three priority areas for the new node in your exercise sheet. 
 
-. *Step 2*: Consider which institution from Darwinia you would recommend to be the host for the node. Identify three pros and cons of this host institution compared to other potential node host institutions. Relate this decision back to the priorities you imagined in step 1.
+* *Step 2*: Consider which institution from Darwinia you would recommend to be the host for the node. Identify three pros and cons of this host institution compared to other potential node host institutions. Relate this decision back to the priorities you imagined in step 1.
 
-. *Step 3*: Describe a governance structure for this new node, including a board and advisory committee(s):
-.. Which institutions would participate in the governance?
-.. How will the governance structure provide guidance and oversight of the work of the node?
-.. What benefits would this governance model bring to the Node?
+* *Step 3*: Describe a governance structure for this new node, including a board and advisory committee(s):
+** Which institutions would participate in the governance?
+** How will the governance structure provide guidance and oversight of the work of the node?
+** What benefits would this governance model bring to the Node?
 
-. *Step 4*: Describe a staffing model for the new node.
-.. Which tasks would each staff member be responsible for?
-.. If you can only have two staff members, which roles would you prioritize?
+* *Step 4*: Describe a staffing model for the new node.
+** Which tasks would each staff member be responsible for?
+** If you can only have two staff members, which roles would you prioritize?
 
-. *Step 5*: Send this to your peers for review. When reviewing, compare the answers to your own and provide feedback on any missing perspectives.
+* *Step 5*: Send this to your peers for review. When reviewing, compare the answers to your own and provide feedback on any missing perspectives.
 
 
 [NOTE.forum]
