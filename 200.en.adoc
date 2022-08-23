@@ -7,8 +7,8 @@ The exercises have been designed to use the <<use-case,use case scenario>> for t
 Remember that discussing your approach to these exercises with your peers and mentors will help you to refine your ideas and strengthen your case. The GBIF nodes work together as a community, recognizing the importance of collaboration and learning from others' experiences to develop the capacity of the nodes and GBIF as network.
 
 :figure-caption!:
-.Matrix for prioritizing stakeholders to engage in making a case for GBIF Participation
-image::img/web/StakeholderMatrix.PNG[align=center,width=640,height=360]
+.Node Managers at the Global Nodes Training workshop, Leiden 2019.
+image::img/web/NodesTraining.jpg[align=center,width=640,height=360]
 
 === Engaging stakeholders towards GBIF Participation
 
