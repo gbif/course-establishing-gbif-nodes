@@ -29,9 +29,9 @@ include::description.en.adoc[]
 
 include::downloads.en.adoc[]
 
-include::use-cases.en.adoc[]
-
 include::case-for-participation.en.adoc[]
+
+include::use-cases.en.adoc[]
 
 include::engaging-stakeholders.en.adoc[]
 
