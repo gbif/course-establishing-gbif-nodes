@@ -20,7 +20,7 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 :figure-caption!:
 .GBIF Global Nodes Training Participants, 2019
-image::img/web/NodesTraining.jpg[align=center,width=640,height=360]
+image::img/web/GlobalNodesTraining.jpg[align=center,width=640,height=360]
 endif::backend-pdf[]
 
 :sectnums!:
