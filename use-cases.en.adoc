@@ -1,8 +1,5 @@
 == Use case
 
-[NOTE.activity]
-Read and familiarize yourself with the use case scenario that we will refer to for the course exercises.
-
 TIP: _Please note that this use case is fictitious, based on an imaginary country “Darwinia” and built for instructional purposes. 
 Any reference to countries and structures/organizations, real or otherwise, are used merely to facilitate the training and do not reflect reality._ 
 
