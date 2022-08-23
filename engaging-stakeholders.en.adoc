@@ -10,7 +10,7 @@ Remember that discussing your approach to these exercises with your peers and me
 .Node Managers at the Global Nodes Training workshop, Leiden 2019.
 image::img/web/NodesTraining.jpg[align=center,width=360,height=640]
 
-=== Engaging stakeholders towards GBIF Participation
+=== Engaging stakeholders
 
 When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful. 
 
@@ -42,7 +42,7 @@ In your exercise sheet, referring to the use case scenario, identify all the sta
 [NOTE.forum]
 While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
 
-=== Targeting specific stakeholders' interests 
+=== Targeting stakeholders' interests 
 
 As we have seen throughout this course, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements. 
 The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introduces the importance of targeting your messages to align with the needs and interests of your specific audience.
@@ -91,7 +91,7 @@ TIP: Make sure to have fun with this activity - and remember that practice will 
 .Pitching a case for GBIF Participation during BID workshop on establishing GBIF Participant nodes, Trinidad, 2019.
 image::img/web/Pitch2.jpg[align=center,width=640,height=360]
 
-=== Participatory approach to establishing nodes
+=== Participatory approach 
 
 Establishing a node is one of the commitments that Participants make when joining GBIF.  
 We recommend that Participants start planning for their node as early as possible in the process of joining GBIF. 
