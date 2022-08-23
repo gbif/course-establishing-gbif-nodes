@@ -427,11 +427,26 @@ Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-nation
 
 In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia to scope out a recommendation for the establishment of a node. 
 
-TIP: There are multiple possible ways to approach this exercise, and we are not expecting a single 'right' solution for this exercise. Focus on explaining the model that you choose and why you think it would be a good model for Darwinia. Refer to details provided in the use case, and feel free to imagine other details when providing your rationale.
-
+TIP: There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations.
 
 [NOTE.activity]
-In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the priorization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers. 
+In your exercise sheet, referring to the use case scenario, develop a recommendation for the establishment of a new Participant node in Darwinia. 
+
+. *Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node. Imagine and write down three priority areas for the new node in your exercise sheet. 
+
+. *Step 2*: Consider which institution from Darwinia you would recommend to be the host for the node. Identify three pros and cons of this host institution compared to other potential node host institutions. Relate this decision back to the priorities you imagined in step 1.
+
+. *Step 3*: Describe a governance structure for this new node, including a board and advisory committee(s):
+.. Which institutions would participate in the governance?
+.. How will the governance structure provide guidance and oversight of the work of the node?
+.. What benefits would this governance model bring to the Node?
+
+. *Step 4*: Describe a staffing model for the new node.
+.. Which tasks would each staff member be responsible for?
+.. If you can only have two staff members, which roles would you prioritize?
+
+. *Step 5*: Send this to your peers for review. When reviewing, compare the answers to your own and provide feedback on any missing perspectives.
+
 
 [NOTE.forum]
 While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
