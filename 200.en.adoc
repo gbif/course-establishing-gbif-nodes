@@ -8,7 +8,7 @@ Remember that discussing your approach to these exercises with your peers and me
 
 :figure-caption!:
 .Node Managers at the Global Nodes Training workshop, Leiden 2019.
-image::img/web/NodesTraining.jpg[align=center,width=640,height=360]
+image::img/web/NodesTraining.jpg[align=center,width=360,height=640]
 
 === Engaging stakeholders towards GBIF Participation
 
