@@ -35,7 +35,7 @@ While working on this activity, we encourage you to consider how this would appl
 
 === Targeting specific stakeholders' interests 
 
-As we have seen throughout this module, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements. 
+As we have seen throughout this course, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements. 
 The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introduces the importance of targeting your messages to align with the needs and interests of your specific audience.
 
 Remember that GBIF Participant countries may have different priorities and interests depending on which Ministry signs the Memorandum of Understanding: for example, Ministries of Environment often oversee the responsibilities under the Convention on Biological Diversity, while Ministries of Science may oversee research infrastructures and funding within the country.
@@ -111,7 +111,7 @@ Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-nation
 
 ==== Scoping a node - Exercise 3
 
-In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia to scope out a recommendation for the establishment of a node. 
+In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Excercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node. 
 
 TIP: There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations.
 
