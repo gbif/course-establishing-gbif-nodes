@@ -8,7 +8,7 @@ If you have difficulty accessing the embedded videos, please download the mp4 fi
 === Videos
 The videos are narrated in English. Subtitles are not available for the downloaded videos.
 
-link:../videos/linkname.zip[linkname.zip,opts=download] (??.? MB)
+// link:../videos/linkname.zip[linkname.zip,opts=download] (??.? MB)
 
 === Exercise sheets
 There are four exercise sheets for this course. 
