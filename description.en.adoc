@@ -23,20 +23,15 @@ This course is aimed at teams engaged in GBIF's capacity development programmes 
 
 === Prerequisites
 
-. https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]
+. Completing the https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]
 
-. Commitment to completing the course within the allocated time-frame and to supporting your peers in the group work
+All participants must commit to completing the course within the allocated time-frame and to supporting your peers in the group work.
 
-=== Learning objectives
-
-* Objective
-* Objective
-* Objective
-* Objective
+// === Learning objectives
 
 // inlude if needed, otherwise remove
 === Certification
 
-Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification.
+Upon successful completion of the course and successful assessment of assignments (by mentors), participants have the opportunity to receive an official certification.
 
-Participants are required to submit their exercise sheets, peer-review forms, and attend the two live sessions to receive certification.
+Participants are required to submit their exercises and attend the two live sessions to receive certification.
