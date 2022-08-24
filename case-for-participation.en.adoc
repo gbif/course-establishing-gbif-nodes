@@ -2,22 +2,24 @@
 == Building a case for engagement in GBIF
 
 [NOTE.objectives]
-*Objectives*
 
-In this course, we will:
+In this section, you will:
 
-* understand GBIF's value and how this can be communicated to different audiences
-* review the process for formal GBIF Participation and the benefits this brings
-* identify and prioritize stakeholders to engage in moving towards GBIF Participation
-* prepare for a participatory approach to establishing a node 
+* review *learning materials*, either in the form of videos to watch or documentation to read. 
 
-You will start by reviewing *learning materials*, either in the form of videos to watch or documentation to read. 
+* complete self-study *activities* to reflect on how the learning materials relate to building a case for engagement in GBIF. 
 
-You will then complete self-study *activities* to reflect on how the learning materials relate to building a case for engagement in GBIF. 
+* keep note of your answers in the first *exercise sheet*.
 
-Keep note of your answers in your *exercise sheet*.
+* in some sections, answer *quiz questions* for you to get instant feedback as you check your understanding of the content. 
 
-In some sections, *quiz questions* are provided for you to get instant feedback as you check your understanding of the content. 
+// In this course, we will:
+
+// * understand GBIF's value and how this can be communicated to different audiences
+// * review the process for formal GBIF Participation and the benefits this brings
+// * identify and prioritize stakeholders to engage in moving towards GBIF Participation
+// * prepare for a participatory approach to establishing a node 
+
 
 === Understanding GBIF's value
 The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas. 
