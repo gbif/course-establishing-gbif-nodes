@@ -27,7 +27,9 @@ This course is aimed at teams engaged in GBIF's capacity development programmes 
 
 All participants must commit to completing the course within the allocated time-frame and to supporting your peers in the group work.
 
-// === Learning objectives
+=== Learning objective
+
+Participants that complete this course are empowered to make the case for establishing nodes - and biodiversity information facilities more generally - for the sustainablity of biodiversity data mobilization and use activities. 
 
 // inlude if needed, otherwise remove
 === Certification
