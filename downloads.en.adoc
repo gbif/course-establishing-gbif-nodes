@@ -9,6 +9,7 @@ If you have difficulty accessing the embedded videos, please download the mp4 fi
 The videos are narrated in English. Subtitles are not available for the downloaded videos.
 
 link:../videos/Dr_Joe_Miller___GBIF.zip[Dr_Joe_Miller___GBIF.zip,opts=download] (29.4 MB)
+
 link:../videos/ValueOfGBIFVideos.zip[ValueOfGBIFVideos.zip.zip,opts=download] (81.2 MB)
 
 === Exercise sheets
