@@ -84,8 +84,11 @@ To learn more about how countries and organizations join GBIF, explore examples 
 image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 *Step 3*: For these examples, look more closely at:
+
 * Which Ministry or Institution has signed the MOU?
+
 * Who has been assigned as Head of Delegation and Node Manager? 
+
 * Which reasons are given for why the Participant joined GBIF?
 
 *Step 4*: Write up your examples in your exercise sheet
