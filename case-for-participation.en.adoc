@@ -75,19 +75,20 @@ image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 [NOTE.activity]
 To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
 
-* *Step 1*: Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website^]
-* *Step 2*: Look for new items related to new Participants joining the network, such as:
+*Step 1*: Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website^]
+
+*Step 2*: Look for new items related to new Participants joining the network, such as:
 
 :figure-caption!:
 .News item on Sierra Leone joining GBIF as a Voting Participant in 2022.
 image::img/web/NewsItem.png[align=center,width=640,height=360]
 
-* *Step 3*: For these examples, look more closely at:
-** Which Ministry or Institution has signed the MOU?
-** Who has been assigned as Head of Delegation and Node Manager? 
-** Which reasons are given for why the Participant joined GBIF?
+*Step 3*: For these examples, look more closely at:
+* Which Ministry or Institution has signed the MOU?
+* Who has been assigned as Head of Delegation and Node Manager? 
+* Which reasons are given for why the Participant joined GBIF?
 
-* *Step 4*: Write up your examples in your exercise sheet
+*Step 4*: Write up your examples in your exercise sheet
 
 ==== Check your understanding
 
@@ -106,7 +107,7 @@ Quiz yourself on the concepts learned in this section. Click resolve to get inst
 - [ ] They ratify the GBIF protocol
 ....
 // Question 2
-. Who is can sign on behalf of the country when completing the process for becoming a GBIF Participant?
+. Who can sign on behalf of the country when completing the process for becoming a GBIF Participant?
 +
 [question, mc]
 ....
