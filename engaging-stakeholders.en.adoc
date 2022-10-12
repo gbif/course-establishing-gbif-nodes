@@ -133,13 +133,13 @@ In your exercise sheet, referring to the use case scenario, develop a recommenda
 
 *Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node and agree that they are:
 
-* 1.	Training and supporting institutions that hold and produce biodiversity data in data management and data publishing via GBIF to increase the data availability for Darwinia.
+.	Training and supporting institutions that hold and produce biodiversity data in data management and data publishing via GBIF to increase the data availability for Darwinia.
 
-* 2.	Establishing a community of practice among potential users of GBIF-mediated data to increase the use of data in research and policy.
+.	Establishing a community of practice among potential users of GBIF-mediated data to increase the use of data in research and policy.
 
-* 3.	Establishing a GBIF hosted portal to provide information on the node activities and access to the data available about biodiversity in the country.
+.	Establishing a GBIF hosted portal to provide information on the node activities and access to the data available about biodiversity in the country.
 
-* 4.	Developing a strategy for data mobilization in the country, based on analysis of current data availability and user needs.
+.	Developing a strategy for data mobilization in the country, based on analysis of current data availability and user needs.
 
 Consider which institution from Darwinia you would recommend to be the host for the node. Identify three likely advantages and three possible disadvantages of this host institution compared to other potential node host institutions. Relate this decision back to the priorities for the node.
 
