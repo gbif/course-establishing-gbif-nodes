@@ -12,10 +12,11 @@ Topics include:
 * Participatory approach to establishing a Participant node
 * Ongoing support towards formal GBIF Participation and for establishing nodes
 
-
 This course is comprised of videos and documentation paired with quizzes and practical exercises. 
-Course participants will be put into peer groups and social interaction is encouraged. 
-Completing the practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification. 
+Course participants will be placed into peer groups and social interaction is encouraged. 
+Completing the practicial exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification.
+
+At the time of registration, all participants must commit to completing the course within the allocated time-frame and to supporting peers in the group work.
 ****
 
 === Audience
@@ -23,17 +24,13 @@ This course is aimed at teams engaged in GBIF's capacity development programmes 
 
 === Prerequisites
 
-. Completing the https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]
-
-All participants must commit to completing the course within the allocated time-frame and to supporting your peers in the group work.
+* https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]
 
 === Learning objective
 
 Participants that complete this course are empowered to make the case for establishing nodes - and biodiversity information facilities more generally - for the sustainablity of biodiversity data mobilization and use activities. 
 
 // inlude if needed, otherwise remove
-=== Certification
+=== Certificate of completion
 
-Upon successful completion of the course and successful assessment of assignments (by mentors), participants have the opportunity to receive an official certification.
-
-Participants are required to submit their exercises and attend the two live sessions to receive certification.
+Upon successful submission of exercises and attendance of two live sessions, participants have the opportunity to receive a completion certification.
