@@ -1,12 +1,12 @@
-= Course on formal engagement and establishing Participant nodes
+= Formal engagement and establishing Participant nodes course
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:revnumber: 1
+:revdate: Nov 2022
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head
