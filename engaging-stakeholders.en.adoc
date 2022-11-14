@@ -28,7 +28,7 @@ Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF commu
 ==== Prioritizing stakeholders - Exercise 1
 
 TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
-Please refer to the context provided in the use case scenario when providing your answers in the exercise sheet. 
+Please refer to the context provided in the use case scenario when providing your answers in the link:../course-docs/B-Exercise-1-Exercise-sheet-EN.docx[exercise sheet]. 
 
 One way to guide the thought process around prioritizing who to engage in building a case for GBIF Participation is to map the stakeholders onto a matrix that looks at:
 
@@ -72,7 +72,7 @@ image::img/web/Pitch.jpg[align=center,width=640,height=360]
 
 [NOTE.activity]
 Develop and role play a pitch based on the <<use-case,use case scenario>> for the fictious country of Darwinia. 
-Document your pitch in your exercise sheet.
+Document your pitch in your link:../course-docs/C-Exercise-2-Exercise-sheet-EN.docx[exercise sheet].
 Consider also the types of questions that a Ministry representative might ask in response to a pitch on GBIF, and keep note of these in your exercise sheet.
 
 *Step 1*: Decide which Ministry you intend to target from Darwinina. Explain why you have chosen this Ministry.
@@ -129,7 +129,7 @@ In this final exercise, we will return to the context set out in the <<use-case,
 TIP: There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations.
 
 [NOTE.activity]
-In your exercise sheet, referring to the use case scenario, develop a recommendation for the establishment of a new Participant node in Darwinia. 
+In your link:../course-docs/D-Exercise-3-Exercise-sheet-EN.docx[exercise sheet], referring to the use case scenario, develop a recommendation for the establishment of a new Participant node in Darwinia. 
 
 *Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node and agree that they are:
 
