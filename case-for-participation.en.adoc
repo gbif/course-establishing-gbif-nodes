@@ -9,7 +9,7 @@ In this section, you will:
 
 * complete self-study *activities* to reflect on how the learning materials relate to building a case for engagement in GBIF. 
 
-* keep note of your answers in the first *exercise sheet*.
+* keep note of your answers in the self-study link:../course-docs/A-Exercise-sheet-EN.docx[*activity sheet*].
 
 * in some sections, answer *quiz questions* for you to get instant feedback as you check your understanding of the content. 
 
@@ -53,7 +53,7 @@ This video is not available for local download.
 video::2bv2Iz0cJ0g[youtube]
 
 [NOTE.activity]
-After watching the videos in this section, keep note in your exercise sheet of at least five rationale statements for why GBIF is of value to its Participants. 
+After watching the videos in this section, keep note in your activity sheet of at least five rationale statements for why GBIF is of value to its Participants. 
 
 === Process for becoming a GBIF Participant
 
@@ -71,7 +71,7 @@ image::img/web/GB26_group_photo_small.jpg[align=center,width=640,height=360]
 
 ==== Examples of new Participants
 [NOTE.activity]
-To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your exercise sheet.
+To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your activity sheet.
 
 *Step 1*: Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website^]
 
@@ -89,7 +89,7 @@ image::img/web/NewsItem.png[align=center,width=640,height=360]
 
 * Which reasons are given for why the Participant joined GBIF?
 
-*Step 4*: Write up your examples in your exercise sheet
+*Step 4*: Write up your examples in your activity sheet
 
 ==== Check your understanding
 
@@ -264,7 +264,7 @@ To decision-makers, GBIF is communicated through the relevance of scientific pro
 ====
 
 [NOTE.activity]
-After reading the statements from some of the GBIF Participant countries on how they communicate GBIF’s value on that national level, look for the topics that are mentioned frequently and that you think could be relevant to your country or organization.  Note down at least three examples on your exercise sheet. 
+After reading the statements from some of the GBIF Participant countries on how they communicate GBIF’s value on that national level, look for the topics that are mentioned frequently and that you think could be relevant to your country or organization.  Note down at least three examples on your activity sheet. 
 
 === Benefits of establishing a node
 
@@ -293,7 +293,7 @@ The coordination role is often especially important.
 
 [NOTE.activity]
 After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country or organization, and which you would consider to be gaps. 
-Keep note of this in your exercise sheet.
+Keep note of this in your activity sheet.
 
 ==== Check your understanding
 
