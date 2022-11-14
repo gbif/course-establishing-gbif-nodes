@@ -26,14 +26,14 @@ The starting point for building a case for a country or international organizati
 
 [NOTE.presentation]
 In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy. 
-If you are unable to watch the embeded Vimeo video, you can download it locally.
+If you are unable to watch the embeded Vimeo video, you can link:../videos/Dr_Joe_Miller_GBIF.zip[download,opts=download] it locally.
 
 [.responsive-video]
 video::656603612[vimeo]
 
 [NOTE.presentation]
 In these six videos (<15:00) you will learn about the value of GBIF to different thematic areas. 
-If you are unable to watch via the embeded Vimeo showcase, the videos can be downloaded locally from the <<downloads,downloads page>>.
+If you are unable to watch via the embeded Vimeo showcase, the videos can be link:../videos/ValueOfGBIFVideos.zip[downloaded,opts=download] locally.
 
 ifdef::backend-pdf[]
 The presentation can be viewed in the online version of the course.
@@ -45,14 +45,12 @@ ifndef::backend-pdf[]
 ++++
 endif::backend-pdf[]
 
-
 [NOTE.presentation]
 In October 2018, the National Biodiversity Data Centre, Ireland, hosted the GBIF Governing Board meeting in Kilkenny. In this video (10:36), members of the GBIF Secretariat and Governing Board discuss GBIF's relevance. 
-If you are unable to watch the embeded YouTube video, you can download it locally.
+This video is not available for local download.
 
 [.responsive-video]
 video::2bv2Iz0cJ0g[youtube]
-
 
 [NOTE.activity]
 After watching the videos in this section, keep note in your exercise sheet of at least five rationale statements for why GBIF is of value to its Participants. 
