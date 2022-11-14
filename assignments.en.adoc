@@ -28,7 +28,7 @@ Required files for submission:
 IMPORTANT: *All files must be submitted in English*. Include the assignment name and exercise number along with your name and group on all files submitted.  
 For example:
 
-* Orange-Russell-Exericse1.docx
+* Orange-Russell-Exercise1.docx
 * Orange-Russell-Exercise2.docx
 * Orange-Exercise2-recording.zip (please compress the mp4 file)
 * Orange-Russell-Exercise3.docx
