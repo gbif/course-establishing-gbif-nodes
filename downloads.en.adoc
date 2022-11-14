@@ -14,7 +14,7 @@ link:../videos/ValueOfGBIFVideos.zip[ValueOfGBIFVideos.zip,opts=download] (81.2 
 
 === Exercise sheets
 There are four exercise sheets for this course. 
-They are Microsoft Word document templates. 
+They are Microsoft Word documents. 
 The exercises sheets are written in English and should be completed in English.
 
 * The first is for keeping track of your answers to the self-study activities in the section on Building a case for engagement in GBIF. You are welcome to discuss your answers with your group and during the live sessions. 
