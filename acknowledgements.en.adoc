@@ -3,9 +3,9 @@
 == Acknowledgements 
 
 The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors. 
-Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions.
+Visit the GBIF page on https://www.gbif.org/mentors[capacity enhancement mentoring^] to read more about these individuals and their contributions.
 
-The course was first desgined by an international group of node managers, with support from the GBIF Secretariat, as part of the Biodiversity Information for Development (BID) programme. https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID^] is a multi-year programme funded by the European Union and led by the Global Biodiversity Information Facility (GBIF) with the aim of increasing the amount of biodiversity information available for use in scientific research and policymaking. 
+The course was first desgined by an international group of node managers, with support from the GBIF Secretariat, as part of the Biodiversity Information for Development (BID) programme. https://www.gbif.org/programme/82243[BID^] is a multi-year programme funded by the European Union and led by the Global Biodiversity Information Facility (GBIF) with the aim of increasing the amount of biodiversity information available for use in scientific research and policymaking. 
 
 The following individuals are recognized for their significant contributions to the course design, materials and instruction:
 
