@@ -3,9 +3,9 @@
 [NOTE.objectives]
 In this section, you will:
 
-* explore through *three practical excercises* how you can get involved in engaging stakeholders to make the case for formal GBIF Participation and for the establishment of a new node. 
+* explore through *three practical exercises* how you can get involved in engaging stakeholders to make the case for formal GBIF Participation and for the establishment of a new node. 
 
-* use the <<use-case,use case scenario>> for the fictious country of Darwinia as the context for the exercises, but we encourage you to consider at each step how this applies to your own national or organizational context.
+* use the <<use-case,use case scenario>> for the fictitious country of Darwinia as the context for the exercises, but we encourage you to consider at each step how this applies to your own national or organizational context.
 
 Remember that discussing your approach to these exercises with your peers and mentors will help you to refine your ideas and strengthen your case. The GBIF nodes work together as a community, recognizing the importance of collaboration and learning from others' experiences to develop the capacity of GBIF as a whole.
 
@@ -27,7 +27,7 @@ Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF commu
 
 ==== Prioritizing stakeholders - Exercise 1
 
-TIP: This exercise is based on the <<use-case,use case scenario>> for the fictious country of Darwinia.  
+TIP: This exercise is based on the <<use-case,use case scenario>> for the fictitious country of Darwinia.  
 Please refer to the context provided in the use case scenario when providing your answers in the link:../course-docs/B-Exercise-1-Exercise-sheet-EN.docx[exercise sheet]. 
 
 One way to guide the thought process around prioritizing who to engage in building a case for GBIF Participation is to map the stakeholders onto a matrix that looks at:
@@ -40,7 +40,7 @@ One way to guide the thought process around prioritizing who to engage in buildi
 image::img/web/StakeholderMatrix.PNG[align=center,width=640,height=360]
 
 [NOTE.activity]
-In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the priorization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers. 
+In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the prioritization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers. 
 
 [NOTE.forum]
 While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call.
@@ -104,7 +104,7 @@ Nodes play an essential role in helping to coordinate activities relating to GBI
 Having an effective node is essential to ensuring that the Participant benefits fully from their membership in GBIF. 
 
 [NOTE.documentation]
-Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#what-do-nodes-need[what nodes need to be effective^] and on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#establishing-process[the recommeneded process for establishing a Participant node^] in the nodes guidance document.
+Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#what-do-nodes-need[what nodes need to be effective^] and on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#establishing-process[the recommended process for establishing a Participant node^] in the nodes guidance document.
 
 :figure-caption!:
 .Participatory approach to establishing a node
@@ -124,7 +124,7 @@ Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-nation
 
 ==== Scoping a node - Exercise 3
 
-In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Excercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node. 
+In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Exercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node. 
 
 TIP: There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations.
 
