@@ -1,5 +1,6 @@
 = Formal engagement and +
 establishing Participant nodes course
+
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
