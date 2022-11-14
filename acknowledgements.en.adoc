@@ -2,8 +2,6 @@
 
 == Acknowledgements 
 
-=== Course design and instruction
-
 The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors. 
 Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions.
 
@@ -26,4 +24,3 @@ The following individuals are recognized for their significant contributions to 
 image::img/web/Trainers.jfif[align=center,width=640,height=360]
 
 *Originators of the curriculum
-
