@@ -11,7 +11,7 @@ Required files for submission:
 * completed individual exercise sheet (MS Word Doc or similar is acceptable)
 
 === Exercise 2
-*Preparing a pitch
+*Preparing a pitch*
 
 Required files for submission:
 
@@ -19,7 +19,7 @@ Required files for submission:
 * group recording (only one person from the group needs to upload the recording)
 
 === Exercise 3
-*Scoping a Participant node
+*Scoping a Participant node*
 
 Required files for submission:
 
