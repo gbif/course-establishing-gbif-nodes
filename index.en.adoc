@@ -37,7 +37,7 @@ include::engaging-stakeholders.en.adoc[]
 
 include::assignments.en.adoc[]
 
-// include::course-evaluation.en.adoc[]
+include::course-evaluation.en.adoc[]
 
 // include::keydocs.en.adoc[]
 
