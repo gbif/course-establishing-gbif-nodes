@@ -28,3 +28,9 @@ The exercises sheets are written in English and should be completed in English.
 ** link:../course-docs/C-Exercise-2-Exercise-sheet-EN.docx[Download the activity sheet for Exercise 2] (MS Word 58 KB)
 
 ** link:../course-docs/D-Exercise-3-Exercise-sheet-EN.docx[Download the activity sheet for Exercise 3] (MS Word 60 KB)
+
+=== Action plan
+A Microsoft Word document to be used post-course.
+The action plan is written in English and should be completed in English if feedback is requested.
+
+link:../course-docs/ActionPlanTowardsGBIFParticipation.docx[Download the action plan] (MS Word 73.3 KB)
