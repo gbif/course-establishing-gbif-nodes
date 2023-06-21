@@ -5,6 +5,7 @@ https://doi.org/10.35035/ce-7rbg-bn83[image:https://zenodo.org/badge/DOI/10.3503
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 // Build status badge: In the text below, please update "course-establishing-gbif-nodes" to "course-your-course-name", and remove this line.
 https://builds.gbif.org/job/course-establishing-gbif-nodes/lastBuild/console[image:https://builds.gbif.org/job/course-establishing-gbif-nodes/badge/icon[Build status]]
+https://crowdin.com/project/establishing-gbif-nodes[image:https://badges.crowdin.net/establishing-gbif-nodes/localized.svg]
 
 = GBIF Course: Establishing GBIF Nodes
 
