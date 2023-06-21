@@ -71,13 +71,13 @@ The communication needs of this group are characterized by *brevity and clarity;
 image::img/web/Pitch.jpg[align=center,width=640,height=360]
 
 [NOTE.activity]
-Develop and role play a pitch based on the <<use-case,use case scenario>> for the fictious country of Darwinia. 
+Develop and role play a pitch based on the <<use-case,use case scenario>> for the fictitious country of Darwinia. 
 Document your pitch in your link:../course-docs/C-Exercise-2-Exercise-sheet-EN.docx[exercise sheet].
 Consider also the types of questions that a Ministry representative might ask in response to a pitch on GBIF, and keep note of these in your exercise sheet.
 
 *Step 1*: Decide which Ministry you intend to target from Darwinina. Explain why you have chosen this Ministry.
 
-*Step 2*: Write out your pitch, targetting what you think would be the main rationale for joining GBIF that would be of interest to the Ministry you have selected. This can be in the form of a complete script, or just bullet points to cover the points you wish to raise.
+*Step 2*: Write out your pitch, targeting what you think would be the main rationale for joining GBIF that would be of interest to the Ministry you have selected. This can be in the form of a complete script, or just bullet points to cover the points you wish to raise.
 
 *Step 3*: Organize a session to role play your pitch with your peer learning group.  You will need to allocate at least 60 minutes for this session and remember to record the session.
 
@@ -124,7 +124,7 @@ Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-nation
 
 ==== Scoping a node - Exercise 3
 
-In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Exercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node. 
+In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictitious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Exercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node. 
 
 TIP: There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations.
 

@@ -244,7 +244,7 @@ GBIF has already proved its value.
 ==== 🇵🇹{nbsp}https://www.gbif.org/country/PT/summary[Portugal^]
 
 ====
-We summarise GBIF’s value based on achievements obtained from our participation so far, starting by highlighting the measurable indicators of performance:
+We summarize GBIF’s value based on achievements obtained from our participation so far, starting by highlighting the measurable indicators of performance:
 
 * Peer review articles published by researchers with Portuguese affiliation, using GBIF data
 * Citations of peer review articles published using data from Portuguese institutions which was published by GBIF
