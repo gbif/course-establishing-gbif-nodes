@@ -1,0 +1,1981 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: establishing-gbif-nodes\n"
+"POT-Creation-Date: 2023-06-21 16:17+0000\n"
+"PO-Revision-Date: 2023-06-22 10:19\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: establishing-gbif-nodes\n"
+"X-Crowdin-Project-ID: 596839\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 39573\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "Formal engagement and establishing Participant nodes course"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:3
+msgid "GBIF Secretariat <training@gbif.org>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:17
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Block title
+#: index.en.adoc:22
+#, no-wrap
+msgid "GBIF Global Nodes Training Participants, 2019"
+msgstr ""
+
+#. type: Target for macro image
+#: index.en.adoc:23
+#, no-wrap
+msgid "img/web/GlobalNodesTraining.jpg"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:2
+#, no-wrap
+msgid "Course description"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:6
+msgid "This course aims to support teams working on GBIF funded projects, observers and other interested participants in the first stages of building a case for formal Participation in GBIF and establishing a Participant node."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:8
+msgid "Topics include:"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:10
+msgid "Benefits of GBIF Participation and of establishing a Participant Node"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:11
+msgid "Process for joining GBIF"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Key audiences to engage in GBIF at a national level"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:13
+msgid "Participatory approach to establishing a Participant node"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:14
+msgid "Ongoing support towards formal GBIF Participation and for establishing nodes"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:18
+msgid "This course is comprised of videos and documentation paired with quizzes and practical exercises.  Course participants will be placed into peer groups and social interaction is encouraged.  Completing the practical exercises, providing peer feedback within your group, and attending two live question and answer sessions are compulsory to successfully completing the course and receiving certification."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:20
+msgid "At the time of registration, all participants must commit to completing the course within the allocated time-frame and to supporting peers in the group work."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:22
+#, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:24
+msgid "This course is aimed at teams engaged in GBIF's capacity development programmes based in countries or organizations that are not yet formal GBIF Participants. Encouraging national Participation and the establishment of a Participant node is a good way to ensure the sustainability of efforts started through capacity development projects focused on biodiversity data mobilization and use."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:25
+#, no-wrap
+msgid "Prerequisites"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:28
+msgid "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]"
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:29
+#, no-wrap
+msgid "Learning objective"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:32
+msgid "Participants that complete this course are empowered to make the case for establishing nodes - and biodiversity information facilities more generally - for the sustainability of biodiversity data mobilization and use activities."
+msgstr ""
+
+#.  inlude if needed, otherwise remove
+#. type: Title ===
+#: description.en.adoc:34
+#, no-wrap
+msgid "Certificate of completion"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:36
+msgid "Upon successful submission of exercises, attendance of live sessions, and interaction with peer groups, participants have the opportunity to receive a completion certification."
+msgstr ""
+
+#. type: Title ==
+#: downloads.en.adoc:1
+#, no-wrap
+msgid "Files for download"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:7
+msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube or Vimeo. Subtitles are available when playing from YouTube and Vimeo for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:8
+#, no-wrap
+msgid "Videos"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:10
+msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:12
+msgid "link:../videos/Dr_Joe_Miller_GBIF.zip[Dr_Joe_Miller_GBIF.zip,opts=download] (29.4 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "link:../videos/ValueOfGBIFVideos.zip[ValueOfGBIFVideos.zip,opts=download] (81.2 MB)"
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:15
+#, no-wrap
+msgid "Exercise sheets"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:19
+msgid "There are four exercise sheets for this course.  They are Microsoft Word documents.  The exercises sheets are written in English and should be completed in English."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:21
+msgid "The first is for keeping track of your answers to the self-study activities in the section on Building a case for engagement in GBIF. You are welcome to discuss your answers with your group and during the live sessions."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:23
+msgid "link:../course-docs/A-Exercise-sheet-EN.docx[Download the self-study activity sheet] (MS Word 59 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:25
+msgid "The next three correspond to the practical exercises that you will complete in the section on Engaging stakeholders towards establishing a node. You will need to submit these to your peer-learning group to receive the certificate of completion for the course."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:27
+msgid "link:../course-docs/B-Exercise-1-Exercise-sheet-EN.docx[Download the activity sheet for Exercise 1] (MS Word 69 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:29
+msgid "link:../course-docs/C-Exercise-2-Exercise-sheet-EN.docx[Download the activity sheet for Exercise 2] (MS Word 58 KB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:31
+msgid "link:../course-docs/D-Exercise-3-Exercise-sheet-EN.docx[Download the activity sheet for Exercise 3] (MS Word 60 KB)"
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:32
+#, no-wrap
+msgid "Action plan"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:35
+msgid "A Microsoft Word document to be used post-course.  The action plan is written in English and should be completed in English if feedback is requested."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:36
+msgid "link:../course-docs/ActionPlanTowardsGBIFParticipation.docx[Download the action plan] (MS Word 73.3 KB)"
+msgstr ""
+
+#. type: Title ==
+#: case-for-participation.en.adoc:2
+#, no-wrap
+msgid "Building a case for engagement in GBIF"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:7 engaging-stakeholders.en.adoc:5
+msgid "In this section, you will:"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:9
+msgid "review *learning materials*, either in the form of videos to watch or documentation to read."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:11
+msgid "complete self-study *activities* to reflect on how the learning materials relate to building a case for engagement in GBIF."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:13
+msgid "keep note of your answers in the self-study link:../course-docs/A-Exercise-sheet-EN.docx[*activity sheet*]."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:15
+msgid "in some sections, answer *quiz questions* for you to get instant feedback as you check your understanding of the content."
+msgstr ""
+
+#.  In this course, we will:
+#.  * understand GBIF's value and how this can be communicated to different audiences
+#.  * review the process for formal GBIF Participation and the benefits this brings
+#.  * identify and prioritize stakeholders to engage in moving towards GBIF Participation
+#.  * prepare for a participatory approach to establishing a node 
+#. type: Title ===
+#: case-for-participation.en.adoc:24
+#, no-wrap
+msgid "Understanding GBIF's value"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:26
+msgid "The starting point for building a case for a country or international organization to formally participate in GBIF is to understand the value of GBIF as data infrastructure and an international network. In this section, we will explore GBIF’s relevance through a series of videos focusing on the contributions to research and policy thematic areas."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:30
+msgid "In this video (10:08) from the GBIF Impact and Action Symposium, 2021, GBIF's Executive Secretary, Dr. Joe Miller, discusses GBIF's relevance for science and policy.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Dr_Joe_Miller_GBIF.zip[download,opts=download] it locally."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:37
+msgid "In these six videos (<15:00) you will learn about the value of GBIF to different thematic areas.  If you are unable to watch via the embedded Vimeo showcase, the videos can be link:../videos/ValueOfGBIFVideos.zip[downloaded,opts=download] locally."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:40
+msgid "The presentation can be viewed in the online version of the course."
+msgstr ""
+
+#. type: delimited block +
+#: case-for-participation.en.adoc:45
+#, no-wrap
+msgid "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/9461923/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>\n"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:51
+msgid "In October 2018, the National Biodiversity Data Centre, Ireland, hosted the GBIF Governing Board meeting in Kilkenny. In this video (10:36), members of the GBIF Secretariat and Governing Board discuss GBIF's relevance.  This video is not available for local download."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:57
+msgid "After watching the videos in this section, keep note in your activity sheet of at least five rationale statements for why GBIF is of value to its Participants."
+msgstr ""
+
+#. type: Title ===
+#: case-for-participation.en.adoc:58
+#, no-wrap
+msgid "Process for becoming a GBIF Participant"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:62
+msgid "In this section, we will review the details of how to become a member of GBIF, the description of Participant categories, and the GBIF Memorandum of Understanding.  We will investigate recent examples of new GBIF Participants to better understand their pathway to formal engagement in the GBIF network."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:64
+msgid "Before going further, go back and review the https://docs.gbif.org/course-introduction-to-gbif/en/introduction-to-gbif-participant-nodes.html[Introduction to GBIF Participant nodes section^] of the pre-requisite course, in which we discussed the modes of formal Participation in GBIF as an intergovernmental network and research infrastructure."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:67
+msgid "Read through the information on https://www.gbif.org/become-member[how to become a member^] in detail. Be sure to review the https://www.gbif.org/document/80661/gbif-memorandum-of-understanding[GBIF Memorandum of Understanding^] to understand the commitments that GBIF Participants make when joining the network."
+msgstr ""
+
+#. type: Block title
+#: case-for-participation.en.adoc:69
+#, no-wrap
+msgid "Governing Board delegates and Secretariat staff at GB26. Photo by Henk Caspers, Naturalis Biodiversity Center, 2019"
+msgstr ""
+
+#. type: Target for macro image
+#: case-for-participation.en.adoc:70
+#, no-wrap
+msgid "img/web/GB26_group_photo_small.jpg"
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:72
+#, no-wrap
+msgid "Examples of new Participants"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:75
+msgid "To learn more about how countries and organizations join GBIF, explore examples of new Participants available in recent news items. Keep notes from these examples in your activity sheet."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:77
+#, no-wrap
+msgid "*Step 1*: Go to the https://www.gbif.org/resource/search?contentType=news[news section of the GBIF website^]\n"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:79
+#, no-wrap
+msgid "*Step 2*: Look for new items related to new Participants joining the network, such as:\n"
+msgstr ""
+
+#. type: Block title
+#: case-for-participation.en.adoc:81
+#, no-wrap
+msgid "News item on Sierra Leone joining GBIF as a Voting Participant in 2022."
+msgstr ""
+
+#. type: Target for macro image
+#: case-for-participation.en.adoc:82
+#, no-wrap
+msgid "img/web/NewsItem.png"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:85
+#, no-wrap
+msgid "*Step 3*: For these examples, look more closely at:\n"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:87
+msgid "Which Ministry or Institution has signed the MOU?"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:89
+msgid "Who has been assigned as Head of Delegation and Node Manager?"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:91
+msgid "Which reasons are given for why the Participant joined GBIF?"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:93
+#, no-wrap
+msgid "*Step 4*: Write up your examples in your activity sheet\n"
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:94 case-for-participation.en.adoc:298
+#, no-wrap
+msgid "Check your understanding"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:98 case-for-participation.en.adoc:302
+msgid "Quiz yourself on the concepts learned in this section. Click resolve to get instant feedback on whether you selected the right answer."
+msgstr ""
+
+#.  Question 1
+#. type: delimited block *
+#: case-for-participation.en.adoc:102
+msgid "How do countries, economies, intergovernmental/international organizations, and organizations with international scope join GBIF as Participants?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:109
+#, no-wrap
+msgid "- [x] They sign a voluntary non-binding instrument called the GBIF Memorandum of Understanding\n"
+"- [ ] They sign a legally binding document called the GBIF Memorandum of Cooperation\n"
+"- [ ] They ratify the GBIF protocol\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: case-for-participation.en.adoc:112
+msgid "Who can sign on behalf of the country when completing the process for becoming a GBIF Participant?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:119
+#, no-wrap
+msgid "- [ ] Signature must come from the Head of State\n"
+"- [ ] Signature may come from any university or natural history museum within a country\n"
+"- [x] Signature may come from a minister or senior official in a relevant government department or designated national agency\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: case-for-participation.en.adoc:122
+msgid "Which of the following is NOT a category of GBIF membership?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:130
+#, no-wrap
+msgid "- [ ] Voting Participants\n"
+"- [ ] Associate Country Participants\n"
+"- [x] Other Voting Participants\n"
+"- [ ] Other Associate Participants\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: case-for-participation.en.adoc:133
+msgid "In order to become a Participant in GBIF, an appropriate representative should send an official Letter of Intent to:"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:141
+#, no-wrap
+msgid "- [ ] The GBIF Executive Secretary\n"
+"- [ ] The Head of Administration\n"
+"- [x] The Chair of the GBIF Governing Board\n"
+"- [ ] The Chair of the Nodes Committee\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: case-for-participation.en.adoc:144
+msgid "How long may a country Participate in GBIF as an Associate Country Participant that does not yet make financial contributions to GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:151
+#, no-wrap
+msgid "- [ ] A maximum of one year\n"
+"- [ ] A maximum of three years\n"
+"- [x] A maximum of five years\n"
+msgstr ""
+
+#. type: Title ===
+#: case-for-participation.en.adoc:154
+#, no-wrap
+msgid "Benefits of GBIF Participation"
+msgstr ""
+
+#. type: delimited block *
+#: case-for-participation.en.adoc:161
+msgid "In building a case for a country or international organization to join GBIF, you will need to explain the benefits of GBIF Participation and of establishing a node.  In 2019, during GBIF's Governing Board meeting, the GBIF Participants were asked to provide statements on how they summarize GBIF’s value and communicate it to colleagues and funders.  A selection of the answers given are provided here for you to review and compare.  Consider which benefits of Participation are common across the statements and which are unique to the specific Participant concerned.  You can find further information about each GBIF Participant delegation by following the links to the country pages on the GBIF website."
+msgstr ""
+
+#. type: delimited block *
+#: case-for-participation.en.adoc:164
+msgid "[NOTE.documentation] Read these statements from GBIF Participants on how they communicate GBIF’s value, and consider how they relate to the context of your country or organization."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:165
+#, no-wrap
+msgid "🇦🇺{nbsp}https://www.gbif.org/country/AU/summary[Australia^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:170
+msgid "The major biodiversity assessment and monitoring challenges confronting nations are inherently transnational and thus demand data at such scale.  The Global Biodiversity Information Facility delivers three key functions for Australia."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:172
+msgid "First, it provides the national and global biodiversity research community access to the best available transnational data to support their work."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:173
+msgid "Second, it provides a global focal point to foster data interoperability, promulgation of data standards and architectural alignment, which inherently leads to a smoother flow of data."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:175
+msgid "And finally it allows Australian biodiversity data generated by collections, museums, researchers, ecological monitoring and citizen science programs to deliver impact globally.  Conversely, it allows Australian researchers and decision makers access to data that would be otherwise hard to obtain for purposes such as biosecurity risk assessment and climate change scenario planning."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:177
+msgid "GBIF has achieved what few other environmental domains have been able to achieve globally and acts as a strong exemplar to scientific and research funding infrastructure initiatives of the level of coordination and cooperation within the biodiversity domain."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:179
+#, no-wrap
+msgid "🇧🇪{nbsp}https://www.gbif.org/country/BE/summary[Belgium^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:185
+msgid "GBIF is a unique infrastructure delivering access to a vast quantity of evidence data from various sources (specimens, observations, monitoring).  It is a fantastic indexation tool for biodiversity data.  It provides a powerful common denominator aggregating data tool."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:187
+msgid "Thanks to capacity enhancement programmes and numerous training workshops, GBIF\tsucceeded to create a vibrant community of nodes supporting data publishers and users around the globe."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:189
+msgid "GBIF’s Data Citation mechanism is amongst the most advanced in open data and open science landscape."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:191
+#, no-wrap
+msgid "🇨🇦{nbsp}https://www.gbif.org/country/CA/summary[Canada^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:195
+msgid "In communicating the value of GBIF to colleagues and funders, Canada emphasizes that:"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:197
+msgid "GBIF provides Canadian citizens and stakeholders with an easy, reliable one-stop source available anywhere for accessing Canadian and global biodiversity information, wherever the data was generated;"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:198
+msgid "GBIF provides great added value from the perspective that it facilitates aggregating relevant data from different sources and reviewing data quality which can be very labour-intensive."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:199
+msgid "Like many other countries, the Government of Canada committed to an Open Government Strategy. Membership in GBIF and contribution of Canadian biodiversity datasets directly supports Open Government activities."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:201
+msgid "Participation in GBIF also contributes to Canada’s data and information requirements for Canadian commitments to intergovernmental processes.  For example, having detailed biodiversity data contributes to the Convention for Biological Diversity’s Aichi Target 19 on the sharing of biodiversity knowledge and also on target 9 (invasive species), target 11 (protected areas), target 12 (avoiding extinctions), and target 13 (conserving genetic resources)."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:203
+#, no-wrap
+msgid "🇬🇭{nbsp}https://www.gbif.org/country/GH/summary[Ghana^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:207
+msgid "I would like to summarize the value proposition of GBIF for Ghana in four ways:"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:209
+msgid "GBIF is an international community and / infrastructure of excellence that is truly dedicated to serving open biodiversity data for science, conservation and policy."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:210
+msgid "GBIF is an excellent practitioner of the “new” and existing discipline of biodiversity informatics."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:211
+msgid "GBIF is a means to achieving national commitments to inter-governmental cooperation / agreements such as Clearing House Mechanisms (CHM) of the CBD."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:212
+msgid "GBIF is a powerful aggregator of worldwide biodiversity data that is crucial for biodiversity research and science."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:215
+#, no-wrap
+msgid "🇮🇪{nbsp}https://www.gbif.org/country/IE/summary[Ireland^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:219
+msgid "To summarize GBIF’s value from Ireland’s perspective:"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:221
+msgid "It internationalizes Ireland’s work – being a small island the temptation for us is to have a national focus – GBIF allows us to participate easily and proactively in a global initiative/network with all the benefits that this brings"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:223
+msgid "Through Ireland’s participation in GBIF it ensures that knowledge on the spatial distribution of Irish biodiversity contributes to the global biodiversity database, - important that we are not overlooked!"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:225
+msgid "It provides a valuable and good value for money resource for researchers within, and associated with, Ireland to use in biodiversity related research, thereby improving the evidence base on Ireland’s biodiversity and how it is changing."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:227
+#, no-wrap
+msgid "🇰🇷{nbsp}https://www.gbif.org/country/KR/summary[Korea, Republic of^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:231
+msgid "The data from Korean Biodiversity need to be registered and distributed through the GBIF’s integrated portal to manage and secure strategically the national biological resources. It is also necessary to respond to international issues of ABS* by following the Korea’s ratification in May 2017 on the Nagoya Protocol. In summary, I would like to say that the GBIF’s values are to collect and share the original data and samples of biological resources to people, and then they can use them for various purposes of environmental monitoring, biodiversity management & conservation, and further industrial uses in medicines, cosmetics, health functional foods, etc."
+msgstr ""
+
+#. type: Block title
+#: case-for-participation.en.adoc:232
+#, no-wrap
+msgid "*Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from Their Utilization to the Convention on Biological Diversity"
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:235
+#, no-wrap
+msgid "🇲🇽{nbsp}https://www.gbif.org/country/MX/summary[Mexico^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:242
+msgid "GBIF is the most comprehensive source of free spatial biodiversity information in the world, really important since biodiversity does not recognize political frontiers and many analysis need to include the whole range of species distribution, assess invasive species, changes caused by climate change or other drivers.  Having access to those data has proved to be very useful tool, despite we might like to have additional data on species population, for example, to assess endangered species.  For many megadiverse countries, this infrastructure provides the basic information needed for better decisions, that provide opportunities for collaboration in different ways.  GBIF has already proved its value."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:244
+#, no-wrap
+msgid "🇵🇹{nbsp}https://www.gbif.org/country/PT/summary[Portugal^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:248
+msgid "We summarize GBIF’s value based on achievements obtained from our participation so far, starting by highlighting the measurable indicators of performance:"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:250
+msgid "Peer review articles published by researchers with Portuguese affiliation, using GBIF data"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:251
+msgid "Citations of peer review articles published using data from Portuguese institutions which was published by GBIF"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:252
+msgid "The 130% annual average increase in the number of accessible data published by Portugal since the implementation of the Portuguese Node in 2013, having increased from 99 thousand records to the 7.1 million at present"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:254
+msgid "However, the major impact/value of GBIF for Portugal is highly focused on other components, namely Capacity Building, Infrastructures, Open Science and International Cooperation."
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:256
+#, no-wrap
+msgid "🇹🇬{nbsp}https://www.gbif.org/country/TG/summary[Togo^]"
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:260
+msgid "GBIF is a community of biodiversity enthusiasts, a platform of scientists and policy makers working to link biodiversity data with science and development; a platform that strives to provide freely decision-making material for understanding biodiversity data for the purpose of preserving and conserving biodiversity for present and future generations. More than a platform, GBIF is a community."
+msgstr ""
+
+#. type: delimited block =
+#: case-for-participation.en.adoc:264
+msgid "This commendable initiative can only be communicated by illustration.  To scientists and researchers through the many applications that are emerging and that help in the analysis and understanding of the data mobilized and available in open access.  To decision-makers, GBIF is communicated through the relevance of scientific productions resulting from the analysis of available data and taking into account their concerns, particularly in terms of management, preservation or conservation of the environment in order to mitigate the effects related to climate change."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:268
+msgid "After reading the statements from some of the GBIF Participant countries on how they communicate GBIF’s value on that national level, look for the topics that are mentioned frequently and that you think could be relevant to your country or organization.  Note down at least three examples on your activity sheet."
+msgstr ""
+
+#. type: Title ===
+#: case-for-participation.en.adoc:269
+#, no-wrap
+msgid "Benefits of establishing a node"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:273
+msgid "Establishing a node is one of the key commitments that Participants make in joining GBIF.  It is important to understand the roles that nodes play within GBIF, as well as the benefits that nodes provide on the national level."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:276
+msgid "Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#why-are-participant-nodes-needed[why Participant nodes are needed^] and https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[the services that nodes provide^] in the nodes guidance document."
+msgstr ""
+
+#. type: Block title
+#: case-for-participation.en.adoc:278
+#, no-wrap
+msgid "Why are Participant nodes needed?"
+msgstr ""
+
+#. type: Target for macro image
+#: case-for-participation.en.adoc:279
+#, no-wrap
+msgid "img/web/NodesBenefits.PNG"
+msgstr ""
+
+#. type: Title ====
+#: case-for-participation.en.adoc:281
+#, no-wrap
+msgid "Node services"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:284
+msgid "Nodes typically provide services in four key areas:"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:286
+msgid "Services relating to coordinating the landscape of biodiversity-related initiatives including participating in the GBIF network"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:287
+msgid "Services relating to supporting biodiversity data mobilization"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:288
+msgid "Services relating to supporting biodiversity data analysis and use"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:289
+msgid "Services relating to biodiversity data management and curation"
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:293
+msgid "There are often existing institutions and networks within a country at the time of joining GBIF that already provide at least some of these services.  Understanding this landscape can help in deciding where to position a new node, and what its priorities should be.  The coordination role is often especially important."
+msgstr ""
+
+#. type: Plain text
+#: case-for-participation.en.adoc:297
+msgid "After reading more about the services that nodes provide, consider if any of these services are already provided by institutions or networks within your country or organization, and which you would consider to be gaps.  Keep note of this in your activity sheet."
+msgstr ""
+
+#.  Question 1
+#. type: delimited block *
+#: case-for-participation.en.adoc:306
+msgid "Which of the following is NOT a typical benefit of establishing a Participant node?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:313
+#, no-wrap
+msgid "- [ ] Nodes help to raise the visibility of data publishing institutions\n"
+"- [x] Nodes gain access to an annual budget from the GBIF Secretariat\n"
+"- [ ] Nodes participate in capacity development programmes and projects funded by GBIF\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: case-for-participation.en.adoc:316
+msgid "Which of the following is NOT a service that Participant nodes typically provide?"
+msgstr ""
+
+#. type: delimited block .
+#: case-for-participation.en.adoc:323
+#, no-wrap
+msgid "- [ ] Providing endorsement of biodiversity data publishers to be added to the GBIF network\n"
+"- [ ] Providing guidance on the implementation of GBIF work programmes in line with Participant priorities\n"
+"- [x] Providing monthly reports to the GBIF Secretariat on data mobilization progress\n"
+msgstr ""
+
+#. type: Title ==
+#: use-cases.en.adoc:1
+#, no-wrap
+msgid "Use case"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:5
+msgid "_Please note that this use case is fictitious, based on an imaginary country “Darwinia” and built for instructional purposes.  Any reference to countries and structures/organizations, real or otherwise, are used merely to facilitate the training and do not reflect reality._"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:8
+msgid "The exercises in this course will build on a fictitious use case scenario _\"Developing a national Participant node in Darwinia\"_ that sets the context for you to go through the steps of building a case for GBIF Participation and establishing a new node.  You will also be invited to consider your own context in additional self-study exercises."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:10
+msgid "In the use case, you will follow the story of a team based at a natural history museum that received a grant to start work on digitizing their collections and publish data through GBIF. They see benefits of participating in the GBIF network and would like to build a case for their country to join and establish a national node."
+msgstr ""
+
+#. type: Title ===
+#: use-cases.en.adoc:12
+#, no-wrap
+msgid "Developing a national Participant node in Darwinia"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:15
+#, no-wrap
+msgid "*Getting started with digitization and open access to biodiversity data*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:20
+msgid "The *Darwinia natural history museum*, the largest biological collection based in the nation of Darwinia, responded to a call for proposals for biodiversity data mobilization projects issued by the Global Biodiversity Information Facility (GBIF), in partnership with the smaller herbarium collection at the *Darwinia National University*.  Both project partners had limited capacity in data management prior to the project, but succeeded in getting a grant to begin digitizing their collections.  After receiving training, the museum staff have now installed software for managing their collections and the museum published the first datasets to GBIF.  The herbarium is still using spreadsheets to manage their data, but has advanced with the digitization and has also published data to GBIF, after gaining permission to use the IPT hosted at the Darwinia natural history museum."
+msgstr ""
+
+#. type: Block title
+#: use-cases.en.adoc:22
+#, no-wrap
+msgid "Photograph showing a display of specimens from a public exhibition"
+msgstr ""
+
+#. type: Target for macro image
+#: use-cases.en.adoc:23
+#, no-wrap
+msgid "img/web/ButterflySpecimens.png"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:28
+msgid "The staff in both collections are already recognizing the benefits of improved data management on the institutional level and of sharing their data across institutions.  The national university has recently started a Master’s programme for biodiversity and conservation studies within the biology faculty and is keen to integrate teaching on biodiversity informatics within the course.  Both institutions receive national funding through the *Ministry for Research, Science and Higher Education*."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:30
+#, no-wrap
+msgid "*National context*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:33
+msgid "Darwinia is not yet a GBIF Participant and there is no national node in the country.  The project team held a national workshop to try to engage with potential users of the data they are publishing."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:37
+msgid "The *Convention on Biological Diversity (CBD) focal point* and *clearing house mechanism (CHM)* are based at the *Ministry of Environment* and have been informed of the data mobilization project.  They are responsible for the national biodiversity reporting and are currently late in submitting the seventh National Report to the CBD.  They have been struggling to find sufficient information to prepare the report."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:41
+msgid "The *Ministry for Research, Science and Higher Education* is better funded than the Ministry of Environment, but both suffered budget cuts under the previous government.  The CBD focal point is planning to apply for a *Global Environment Facility (GEF)* grant to establish a national biodiversity monitoring system that would address the gaps in biodiversity information identified in the national report through the establishment of a database.  The Ministry of Environment and the Ministry for Research, Science and Higher Education do not have any policies regarding the sharing of biodiversity data on the national level, although the government has been promoting transparency and open data."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:45
+msgid "Representatives from the *National Parks Service* (under the Ministry of Environment) came to the project kick-off meeting, and were interested in improving their data management, as currently each park manages its data separately.  Darwinia has a very active tourism industry and is well known for its national parks and nature, although a growing number of the charismatic fauna and flora are threatened due to habitat loss (primarily due to expanding mining and logging industries) and the impacts of invasive alien species.  Representatives of the *Ministry for Tourism* were also invited to the meeting, and there are several private reserves that focus on eco-tourism that are receiving a growing number of tourists annually."
+msgstr ""
+
+#. type: Block title
+#: use-cases.en.adoc:47
+#, no-wrap
+msgid "Photograph \"Please leave nothing but your footprints\" (image via https://www.peakpx.com, licensed under CC-0)"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:49
+msgid "image::img/web/Leave nothing but your footprints.jpg[align=center,width=640,height=360]"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:52
+msgid "Several *international conservation bodies (WWF, IUCN etc.)* have national programmes and bring international scientists to work on conservation projects involving the parks, but tend not to share data between them.  Citizen science has not yet taken off in the country, and only a few tourists are making use of citizen science applications."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:54
+#, no-wrap
+msgid "*Threats to biodiversity*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:58
+msgid "Darwinia has an active *extraction industry*, which employs *environmental and social impact assessment consultants*.  There is currently no public access to these data and they are not consistently formatted.  The *mining industry* is an important part of the country’s economy."
+msgstr ""
+
+#. type: Block title
+#: use-cases.en.adoc:60
+#, no-wrap
+msgid "Photograph \"Mining excavation on a mountain\" (Photo by Vlad Chețan from Pexels: https://www.pexels.com/photo/mining-excavation-on-a-mountain-2892618/, licensed under CC-0) "
+msgstr ""
+
+#. type: Target for macro image
+#: use-cases.en.adoc:61
+#, no-wrap
+msgid "img/web/Mining.jpg[align=center,width=640,height=360]g"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:65
+msgid "The *Department of Forestry* is under the Ministry of Environment and gives permits for logging.  Illegal logging is a growing problem, especially because many communities depend on non-timber forest products."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:68
+msgid "The Ministry of Environment is aware of the growing impact of invasive alien species (IAS) that are damaging the ecosystems in the parks, and affecting waterways.  They have started an IAS eradication programme in the national parks."
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:70
+#, no-wrap
+msgid "*Recent elections*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-cases.en.adoc:74
+msgid "The newly elected government came into power at the end of 2021.  There have been many changes within the ministries, and the new Minister for Research, Science and Higher Education is a biologist who previously worked at the national university and is aware of the importance of their collections.  The election campaign also promised more sustainable economic growth through supporting the growth of tourism in the country."
+msgstr ""
+
+#. type: Title ==
+#: engaging-stakeholders.en.adoc:2
+#, no-wrap
+msgid "Engaging stakeholders towards establishing a node"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:7
+msgid "explore through *three practical exercises* how you can get involved in engaging stakeholders to make the case for formal GBIF Participation and for the establishment of a new node."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:9
+msgid "use the <<use-case,use case scenario>> for the fictitious country of Darwinia as the context for the exercises, but we encourage you to consider at each step how this applies to your own national or organizational context."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:11
+msgid "Remember that discussing your approach to these exercises with your peers and mentors will help you to refine your ideas and strengthen your case. The GBIF nodes work together as a community, recognizing the importance of collaboration and learning from others' experiences to develop the capacity of GBIF as a whole."
+msgstr ""
+
+#. type: Block title
+#: engaging-stakeholders.en.adoc:13
+#, no-wrap
+msgid "Node Managers at the Global Nodes Training workshop, Leiden 2019."
+msgstr ""
+
+#. type: Target for macro image
+#: engaging-stakeholders.en.adoc:14
+#, no-wrap
+msgid "img/web/NodesTraining.jpg"
+msgstr ""
+
+#. type: Title ===
+#: engaging-stakeholders.en.adoc:16
+#, no-wrap
+msgid "Engaging stakeholders"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:19
+msgid "When building a case for a country to join GBIF, it is important to start by identifying all the stakeholders (actors and parties) that would be concerned with GBIF Participation, and then considering which of these will be most helpful."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:21
+#, no-wrap
+msgid "*Key audiences*\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:24
+msgid "GBIF’s communication strategy is a helpful resource in identifying the key audiences and messages to communicate to them to build engagement.  It can also help you consider the stakeholder groups to engage when building a case for GBIF participation within your country or network."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:27
+msgid "Review the https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^], focusing on the audiences and the roles they could play in becoming a GBIF Participant and establishing a node."
+msgstr ""
+
+#. type: Title ====
+#: engaging-stakeholders.en.adoc:28
+#, no-wrap
+msgid "Prioritizing stakeholders - Exercise 1"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:32
+msgid "This exercise is based on the <<use-case,use case scenario>> for the fictitious country of Darwinia.  Please refer to the context provided in the use case scenario when providing your answers in the link:../course-docs/B-Exercise-1-Exercise-sheet-EN.docx[exercise sheet]."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:34
+msgid "One way to guide the thought process around prioritizing who to engage in building a case for GBIF Participation is to map the stakeholders onto a matrix that looks at:"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:36
+msgid "How likely each stakeholder is to support the desired outcome (in this case, the country becoming a GBIF Participant and establishing a node)"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:37
+msgid "How much influence each stakeholder is likely to have on the outcome (remembering that for a country to join, signature of the MOU may come from a minister or senior official in a relevant government department or designated national agency)"
+msgstr ""
+
+#. type: Block title
+#: engaging-stakeholders.en.adoc:39
+#, no-wrap
+msgid "Matrix for prioritizing stakeholders to engage in making a case for GBIF Participation"
+msgstr ""
+
+#. type: Target for macro image
+#: engaging-stakeholders.en.adoc:40
+#, no-wrap
+msgid "img/web/StakeholderMatrix.PNG"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:44
+msgid "In your exercise sheet, referring to the use case scenario, identify all the stakeholders to engage in making a case for GBIF Participation and map them onto the prioritization matrix. Keep track of your rationale for where you have placed the stakeholders, and any points you would wish to discuss with your peers."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:47 engaging-stakeholders.en.adoc:165
+msgid "While working on this activity, we encourage you to consider how this would apply to your national context and keep track of any items you wish to discuss during the first group call."
+msgstr ""
+
+#. type: Title ===
+#: engaging-stakeholders.en.adoc:48
+#, no-wrap
+msgid "Targeting stakeholders' interests "
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:52
+msgid "As we have seen throughout this course, GBIF provides value across a range of scientific and policy-relevant thematic areas, and the benefits of participating in GBIF are wide ranging, from technology and infrastructure-related benefits, to capacity development, to supporting research, and to helping to fulfil national commitments under related multilateral environmental agreements.  The https://docs.gbif.org/gbif-communications-strategy/1.0/en/[GBIF communication strategy^] introduces the importance of targeting your messages to align with the needs and interests of your specific audience."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:54
+msgid "Remember that GBIF Participant countries may have different priorities and interests depending on which Ministry signs the Memorandum of Understanding: for example, Ministries of Environment often oversee the responsibilities under the Convention on Biological Diversity, while Ministries of Science may oversee research infrastructures and funding within the country."
+msgstr ""
+
+#. type: Title ====
+#: engaging-stakeholders.en.adoc:55
+#, no-wrap
+msgid "Preparing a pitch - Exercise 2"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:58
+msgid "For this exercise, you will prepare and role-play a succinct and convincing pitch to a relevant Ministry of your choice in order to engage them towards GBIF Participation."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:60
+msgid "In preparing your pitch, consider the specific needs and interests of the Ministry you wish to target."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:63
+msgid "A pitch should be short - you should be prepared to deliver it within no more than three minutes.  The aim is to provide just enough information to prompt interest and questions that will allow you to provide additional details in response."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:68
+msgid "[quote, GBIF Communication Strategy] GBIF’s future depends in part on remaining useful and relevant to a relatively small number of decision makers in key policymaking and funding positions.  If these funders and executives are unconvinced of GBIF’s utility value, it will not survive even if all other aspects of its communication strategy are successful.  The communication needs of this group are characterized by *brevity and clarity; messages must be conveyed strategically, succinctly and persuasively, and often delivered opportunistically and at short notice*. Decision makers are the primary consumers of the ‘elevator pitch’—the 30-second explanation of GBIF’s value that can influence participation or withdrawal of support from governments and agencies."
+msgstr ""
+
+#. type: Block title
+#: engaging-stakeholders.en.adoc:70
+#, no-wrap
+msgid "Role-playing pitching a case for GBIF Participation, BID workshop on establishing GBIF Participant nodes, Cameroon, 2019."
+msgstr ""
+
+#. type: Target for macro image
+#: engaging-stakeholders.en.adoc:71
+#, no-wrap
+msgid "img/web/Pitch.jpg"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:77
+msgid "Develop and role play a pitch based on the <<use-case,use case scenario>> for the fictitious country of Darwinia.  Document your pitch in your link:../course-docs/C-Exercise-2-Exercise-sheet-EN.docx[exercise sheet].  Consider also the types of questions that a Ministry representative might ask in response to a pitch on GBIF, and keep note of these in your exercise sheet."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:79
+#, no-wrap
+msgid "*Step 1*: Decide which Ministry you intend to target from Darwinina. Explain why you have chosen this Ministry.\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:81
+#, no-wrap
+msgid "*Step 2*: Write out your pitch, targeting what you think would be the main rationale for joining GBIF that would be of interest to the Ministry you have selected. This can be in the form of a complete script, or just bullet points to cover the points you wish to raise.\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:83
+#, no-wrap
+msgid "*Step 3*: Organize a session to role play your pitch with your peer learning group.  You will need to allocate at least 60 minutes for this session and remember to record the session.\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:85
+msgid "Take it in turn to role play the delivery of a pitch, remembering to inform your group which Ministry you are targeting."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:87
+msgid "The other group members can ask questions, taking on the role of Ministry representatives."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:89
+msgid "Once you have all completed the exercise, take some time to provide each other with feedback. Consider what went well, and what could be done to make it even better next time."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:91
+#, no-wrap
+msgid "*Step 4*: Upload your group's recording into the shared folder.\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:93
+msgid "Make sure to have fun with this activity - and remember that practice will really help!"
+msgstr ""
+
+#. type: Block title
+#: engaging-stakeholders.en.adoc:95
+#, no-wrap
+msgid "Pitching a case for GBIF Participation during BID workshop on establishing GBIF Participant nodes, Trinidad, 2019."
+msgstr ""
+
+#. type: Target for macro image
+#: engaging-stakeholders.en.adoc:96
+#, no-wrap
+msgid "img/web/Pitch2.jpg"
+msgstr ""
+
+#. type: Title ===
+#: engaging-stakeholders.en.adoc:98
+#, no-wrap
+msgid "Participatory approach "
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:102
+msgid "Establishing a node is one of the commitments that Participants make when joining GBIF.  We recommend that Participants start planning for their node as early as possible in the process of joining GBIF."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:105
+msgid "Nodes play an essential role in helping to coordinate activities relating to GBIF within the country or organization’s scope and in linking these to the global network.  Having an effective node is essential to ensuring that the Participant benefits fully from their membership in GBIF."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:108
+msgid "Read the sections on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#what-do-nodes-need[what nodes need to be effective^] and on https://docs.gbif.org/effective-nodes-guidance/1.0/en/#establishing-process[the recommended process for establishing a Participant node^] in the nodes guidance document."
+msgstr ""
+
+#. type: Block title
+#: engaging-stakeholders.en.adoc:110
+#, no-wrap
+msgid "Participatory approach to establishing a node"
+msgstr ""
+
+#. type: Target for macro image
+#: engaging-stakeholders.en.adoc:111
+#, no-wrap
+msgid "img/web/ParticipatoryApproach.png"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:116
+msgid "GBIF recommends taking a participatory approach to establishing a node, in order to build collaboration among the key stakeholders and establish a clear mandate for the node from the start.  The decision on where to situate a node within the landscape of stakeholder institutions will impact the node's focus and priorities.  The potential advantages and disadvantages of the typical hosting institutions are discussed in the nodes guidance document."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:121
+msgid "In an ideal scenario, nodes will have access to a strong team and appropriate budget to enable them to carry out all the https://docs.gbif.org/effective-nodes-guidance/1.0/en/#node-services[services that nodes provide^] that we looked at in an earlier section.  Often, however, nodes start with a small team and limited resources.  In order to be most effective, nodes should consider which roles are essential for them to carry out, and which can be delegated to other stakeholders in the network they will be establishing.  A good way to formalize these collaborations and shared roles is to establish *governance structures*, such as a board or steering committee, as well as advisory committees, such as a scientific advisory committee."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:124
+msgid "Read a https://www.gbif.org/article/4ZQrCFLXzaLD9Ph5Tp97kZ/establishing-a-national-biodiversity-information-facility-in-chile[guiding example^] from the node in Chile, in which they discuss the establishment of their node through a process involving needs assessment and community consultation."
+msgstr ""
+
+#. type: Title ====
+#: engaging-stakeholders.en.adoc:125
+#, no-wrap
+msgid "Scoping a node - Exercise 3"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:128
+msgid "In this final exercise, we will return to the context set out in the <<use-case,use case scenario>> for the fictitious country of Darwinia and assume that you were successful in gaining the attention of the Ministry with your pitch in Exercise 2. You will now be tasked to scope out a recommendation for the establishment of a Darwinia node."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:130
+msgid "There are multiple valid ways to approach this exercise - we are not expecting a single 'right' solution here. Focus on explaining the node model that you choose and why you think it would be a good model for Darwinia. When providing your rationale, you can refer to details provided in the use case and you should feel free to imagine other details to strengthen your explanations."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:133
+msgid "In your link:../course-docs/D-Exercise-3-Exercise-sheet-EN.docx[exercise sheet], referring to the use case scenario, develop a recommendation for the establishment of a new Participant node in Darwinia."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:135
+#, no-wrap
+msgid "*Step 1*: Imagine that you have been appointed to oversee a national stakeholder workshop to develop a recommendation for the establishment of a node in Darwinia. During this meeting, you discuss the priorites for the new node and agree that they are:\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:137
+msgid "Training and supporting institutions that hold and produce biodiversity data in data management and data publishing via GBIF to increase the data availability for Darwinia."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:139
+msgid "Establishing a community of practice among potential users of GBIF-mediated data to increase the use of data in research and policy."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:141
+msgid "Establishing a GBIF hosted portal to provide information on the node activities and access to the data available about biodiversity in the country."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:143
+msgid "Developing a strategy for data mobilization in the country, based on analysis of current data availability and user needs."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:145
+msgid "Consider which institution from Darwinia you would recommend to be the host for the node. Identify three likely advantages and three possible disadvantages of this host institution compared to other potential node host institutions. Relate this decision back to the priorities for the node."
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:147
+#, no-wrap
+msgid "*Step 2*: Describe a governance structure for this new node, including a board and advisory committee(s):\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:149
+msgid "Which institutions would participate in the governance?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:151
+msgid "How will the governance structure provide guidance and oversight of the work of the node?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:153
+msgid "What benefits would this governance model bring to the Node?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:155
+#, no-wrap
+msgid "*Step 3*: Describe a staffing model for the new node.\n"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:157
+msgid "What type of skills/what sort of profile would you be looking for in someone who could take on each role?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:159
+msgid "Which tasks would each staff member be responsible for?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:161
+msgid "If you can only have two staff members, which roles would you prioritize?"
+msgstr ""
+
+#. type: Plain text
+#: engaging-stakeholders.en.adoc:163
+#, no-wrap
+msgid "*Step 4*: Send this to your peers for review. When reviewing, compare the answers to your own and provide feedback on any missing perspectives.\n"
+msgstr ""
+
+#. type: Title ==
+#: assignments.en.adoc:1
+#, no-wrap
+msgid "Final assignments"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:5
+msgid "For your final activities, you will complete and submit three exercises for evaluation."
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:6
+#, no-wrap
+msgid "Exercise 1"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:8
+#, no-wrap
+msgid "*Prioritizing stakeholders*\n"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:10 assignments.en.adoc:17 assignments.en.adoc:25
+msgid "Required files for submission:"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:12 assignments.en.adoc:19 assignments.en.adoc:27
+msgid "completed individual exercise sheet (MS Word Doc or similar is acceptable)"
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:13
+#, no-wrap
+msgid "Exercise 2"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:15
+#, no-wrap
+msgid "*Preparing a pitch*\n"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:20
+msgid "group recording (only one person from the group needs to upload the recording)"
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:21
+#, no-wrap
+msgid "Exercise 3"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:23
+#, no-wrap
+msgid "*Scoping a Participant node*\n"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:30
+#, no-wrap
+msgid "*All files must be submitted in English*. Include the assignment name and exercise number along with your name and group on all files submitted.  \n"
+"For example:\n"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:32
+msgid "Orange-Russell-Exercise1.docx"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:33
+msgid "Orange-Russell-Exercise2.docx"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:34
+msgid "Orange-Exercise2-recording.zip (please compress the mp4 file)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:35
+msgid "Orange-Russell-Exercise3.docx"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:37
+msgid "Contact training@gbif.org if you have any questions."
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:38
+#, no-wrap
+msgid "Assignment submission"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:44
+msgid "Assignments can be submitted from the online (HTML) version of the course."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:48
+msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/8435157e5a574b5487b5ef087f575328:[submission site^] in a new window."
+msgstr ""
+
+#. type: delimited block +
+#: assignments.en.adoc:51
+#, no-wrap
+msgid "<iframe src=\"https://gbif.app.box.com/f/8435157e5a574b5487b5ef087f575328\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
+msgstr ""
+
+#. type: Title ==
+#: course-evaluation.en.adoc:1
+#, no-wrap
+msgid "Course evaluation"
+msgstr ""
+
+#. type: Plain text
+#: course-evaluation.en.adoc:5
+msgid "Complete the course evaluation"
+msgstr ""
+
+#. type: Plain text
+#: course-evaluation.en.adoc:6
+msgid "https://bit.ly/EPN-Eval"
+msgstr ""
+
+#. type: Title ==
+#: acknowledgements.en.adoc:3
+#, no-wrap
+msgid "Acknowledgements "
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:7
+msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/mentors[capacity enhancement mentoring^] to read more about these individuals and their contributions."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:9
+msgid "The course was first designed by an international group of node managers, with support from the GBIF Secretariat, as part of the Biodiversity Information for Development (BID) programme. https://www.gbif.org/programme/82243[BID^] is a multi-year programme funded by the European Union and led by the Global Biodiversity Information Facility (GBIF) with the aim of increasing the amount of biodiversity information available for use in scientific research and policymaking."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:11
+msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:13
+msgid "Liam Lysaght (Ireland)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:14
+msgid "Fatima Parker-Allie (South Africa)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:15
+msgid "Anabela Plos (Argentina)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:16
+msgid "Raoufou Pierre Radji (Togo)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:17
+msgid "Carole Sinou (Canadensys)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:18
+msgid "Anders Telenius (Sweden)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:19
+msgid "Melianie Raymond (GBIF Secretariat)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:20
+msgid "Maheva Bagard Laursen (GBIF Secretariat)*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:21
+msgid "Laura Russell (GBIF Secretariat)*"
+msgstr ""
+
+#. type: Block title
+#: acknowledgements.en.adoc:23
+#, no-wrap
+msgid "Meeting of the original trainers for this course, Copenhagen, 2019."
+msgstr ""
+
+#. type: Target for macro image
+#: acknowledgements.en.adoc:24
+#, no-wrap
+msgid "img/web/Trainers.jfif"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:26
+#, no-wrap
+msgid "*Originators of the curriculum\n"
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:1
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:6
+msgid "Formal engagement and establishing Participant nodes course. 1st edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-7rbg-bn83. [Date of course.]"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:7
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:10
+msgid "The Formal engagement and establishing Participant nodes course is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:11
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:14
+msgid "https://doi.org/10.35035/ce-7rbg-bn83"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:15
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:17
+msgid "First edition, November 2022"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:2
+#, no-wrap
+msgid "// Slide 1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:5
+#, no-wrap
+msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
+"These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:7
+#, no-wrap
+msgid "// Slide 2\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:10
+#, no-wrap
+msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
+"I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:12
+#, no-wrap
+msgid "// Slide 3\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:15
+#, no-wrap
+msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
+"In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:17
+#, no-wrap
+msgid "// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:19
+#, no-wrap
+msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:21
+#, no-wrap
+msgid "a list of species present in a protected area is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:23
+#, no-wrap
+msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:25
+#, no-wrap
+msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:27
+#, no-wrap
+msgid "// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:31
+#, no-wrap
+msgid "GBIF provides data publishers with templates for each class of dataset.\n"
+"The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
+"In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:33
+#, no-wrap
+msgid "// Slide 6\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:36
+#, no-wrap
+msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
+"Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:38
+#, no-wrap
+msgid "// Slide 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:41
+#, no-wrap
+msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
+"However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:43
+#, no-wrap
+msgid "// Slide 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:45
+#, no-wrap
+msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:47
+#, no-wrap
+msgid "// Slide 9\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:50
+#, no-wrap
+msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
+"ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:52
+#, no-wrap
+msgid "// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:55
+#, no-wrap
+msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
+"These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:57
+#, no-wrap
+msgid "// Slide 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:60
+#, no-wrap
+msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
+"They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:62
+#, no-wrap
+msgid "// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:67
+#, no-wrap
+msgid "Occurrence data represents the GBIF class of datasets with the largest number of records on GBIF.org.\n"
+"Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
+"In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
+"Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:69
+#, no-wrap
+msgid "// Slide 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:72
+#, no-wrap
+msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
+"They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:74
+#, no-wrap
+msgid "// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:77
+#, no-wrap
+msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
+"Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:79
+#, no-wrap
+msgid "// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:81
+#, no-wrap
+msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:83
+#, no-wrap
+msgid "// Slide 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:86
+#, no-wrap
+msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
+"Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:88
+#, no-wrap
+msgid "// Slide 17\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:90
+#, no-wrap
+msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:92
+#, no-wrap
+msgid "// Slide 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:96
+#, no-wrap
+msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
+"Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
+"In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:98
+#, no-wrap
+msgid "// Slide 19\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:102
+#, no-wrap
+msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
+"The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
+"The data are then searchable and downloadable via GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:104
+#, no-wrap
+msgid "// Slide 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:107
+#, no-wrap
+msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
+"The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:109
+#, no-wrap
+msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:111
+#, no-wrap
+msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:113
+#, no-wrap
+msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:115
+#, no-wrap
+msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:117
+#, no-wrap
+msgid "// Slide 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:121
+#, no-wrap
+msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
+"Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
+"You can find these requirements on GBIF.org from the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:123
+#, no-wrap
+msgid "// Slide 22\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:125
+#, no-wrap
+msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:127
+#, no-wrap
+msgid "You can reflect on this topic with the following questions:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:129
+#, no-wrap
+msgid "Is your data type different than you originally thought?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:131
+#, no-wrap
+msgid "With what kind of data do you work?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:133
+#, no-wrap
+msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:135
+#, no-wrap
+msgid "// Slide 23\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:137
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:139
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:141
+#, no-wrap
+msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:142
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
